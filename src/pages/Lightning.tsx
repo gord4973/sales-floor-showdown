@@ -107,7 +107,7 @@ export function Lightning() {
     return (
       <main className="screen stack">
         <p className="kicker">Lightning round</p>
-        <h1 style={{ fontSize: 48 }}>TEN QUESTIONS. TWELVE SECONDS. COMBOS PAY.</h1>
+        <h1 style={{ fontSize: 48 }}>TEN QUESTIONS. FIFTEEN SECONDS. COMBOS PAY.</h1>
         <p className="muted">Trims, warranty, PHEV range, and what you actually say when Surrey comes up. Streaks hit x2, x3, then x4 and the bay goes off.</p>
         {error && <p style={{ color: '#ff8fa0' }}>{error}</p>}
         <button className="primary" data-testid="lightning-start" onClick={() => void start()}>LIGHT IT UP</button>
