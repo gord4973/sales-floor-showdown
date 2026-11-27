@@ -1,15 +1,16 @@
+# Free-tier deploy (no monthly cost). Free Render Postgres expires 30 days after creation.
 databases:
   - name: sales-floor-db
-    plan: basic-256mb
+    plan: free
     region: oregon
-    databaseName: showdown
-    user: showdown
+    databaseName: sales_floor_db
+    user: sales_floor_db_user
 
 services:
   - type: web
     name: sales-floor-showdown
     runtime: node
-    plan: starter
+    plan: free
     region: oregon
     buildCommand: npm install --include=dev && npm run build
     startCommand: node server/index.js
@@ -22,6 +23,6 @@ services:
           name: sales-floor-db
           property: connectionString
       - key: ADMIN_PASSWORD
-        generateValue: true
+        sync: false
       - key: SESSION_SECRET
         generateValue: true
