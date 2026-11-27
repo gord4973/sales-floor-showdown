@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "dev": "node server/index.js",
-    "build": "vite build",
+    "build": "vite build && node scripts/remove-rep.mjs",
     "start": "NODE_ENV=production node server/index.js",
     "content": "node scripts/generate-content.mjs",
     "test": "node --test server/logic.test.js server/content.test.js"
