@@ -1,0 +1,860 @@
+[
+  {
+    "id": "surrey-cheaper",
+    "customer": "I can get it cheaper in Surrey.",
+    "context": "They have a screenshot of an Outlander ad. Trim and fees are unclear.",
+    "skill": "objection",
+    "category": "price",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "Let me see it. We'll match year, trim, kilometres and fees. If their out-the-door is truly lower on the same car, I'll take it to my manager before you drive an hour."
+      },
+      {
+        "quality": "ok",
+        "text": "Ads leave things out. I can get our desk to build this exact unit so you have a real number to compare."
+      },
+      {
+        "quality": "poor",
+        "text": "Surrey always lies. You'd be crazy to go there."
+      },
+      {
+        "quality": "poor",
+        "text": "Fine, I'll knock two thousand off right now."
+      }
+    ],
+    "explanation": "Isolate the car, then involve the desk. Trash talk and unapproved discounts both lose."
+  },
+  {
+    "id": "toyota-resale",
+    "customer": "Toyota holds its value. Yours won't.",
+    "context": "A parent is influencing a first-time buyer.",
+    "skill": "competitor",
+    "category": "competitor",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "They might. I won't promise a residual. Let's put the 10-year powertrain, the equipment you'll use, and today's payment next to a real Toyota quote."
+      },
+      {
+        "quality": "ok",
+        "text": "Resale is one line in the ownership math. Warranty is the line I can show you in writing today."
+      },
+      {
+        "quality": "poor",
+        "text": "Resale is a myth dealers invented. Ignore your parents."
+      },
+      {
+        "quality": "poor",
+        "text": "I guarantee this will be worth more than a RAV4 in three years."
+      }
+    ],
+    "explanation": "Never guarantee a future auction price. Compare what you can prove."
+  },
+  {
+    "id": "hate-cvt",
+    "customer": "I hate CVTs. They all blow up.",
+    "context": "They had a bad experience in another brand.",
+    "skill": "objection",
+    "category": "product",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "This one is a CVT. I won't pretend it's an 8-speed. Drive it, and look at the 10-year powertrain coverage before you decide the gearbox is a deal-breaker."
+      },
+      {
+        "quality": "ok",
+        "text": "The reputation comes from somewhere. The way we answer it is the warranty and a drive, not a speech."
+      },
+      {
+        "quality": "poor",
+        "text": "Ours is actually a regular automatic. The CVT thing is just branding."
+      },
+      {
+        "quality": "poor",
+        "text": "CVTs never fail. The warranty is just marketing."
+      }
+    ],
+    "explanation": "The lineup uses CVTs. Lying about that is worse than the objection."
+  },
+  {
+    "id": "third-row-useless",
+    "customer": "Third rows are useless. It's a gimmick.",
+    "context": "They are comparing a five-seat CR-V.",
+    "skill": "trust",
+    "category": "product",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "For adults on a long trip, I agree. Legroom back there is about 18.7 inches. It's for kids and short hops, and you fold it when you need the 866 litres."
+      },
+      {
+        "quality": "ok",
+        "text": "It's a sometimes seat. If you never carry more than four, we should make sure you actually want it."
+      },
+      {
+        "quality": "poor",
+        "text": "It's as roomy as a minivan. You'll thank me on the way to Whistler."
+      },
+      {
+        "quality": "poor",
+        "text": "Then look at a sedan. SUVs are a waste."
+      }
+    ],
+    "explanation": "Honest third-row talk is what keeps the vehicle from coming back."
+  },
+  {
+    "id": "battery-cost",
+    "customer": "The PHEV battery will die and cost me a fortune.",
+    "context": "They like the commute math and fear the pack.",
+    "skill": "phev",
+    "category": "phev",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "The pack is warrantied 10 years or 160,000 km. That is not a promise of zero wear. It is the reason a dead pack is not a surprise invoice in year six."
+      },
+      {
+        "quality": "ok",
+        "text": "Ask me what the warranty actually covers before you price a nightmare. I'll show you the battery line."
+      },
+      {
+        "quality": "poor",
+        "text": "Batteries never degrade if you plug in every night."
+      },
+      {
+        "quality": "poor",
+        "text": "If it dies you're on your own. That's the risk of new tech."
+      }
+    ],
+    "explanation": "Quote the 10/160 battery warranty and do not promise zero degradation."
+  },
+  {
+    "id": "no-charger",
+    "customer": "I don't have a charger at home.",
+    "context": "Condo shopper, interested in the PHEV.",
+    "skill": "phev",
+    "category": "phev",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "Then we find out if you can use a normal 120-volt outlet, and we don't pretend a 240-volt unit is included. If you will never plug in, the gas Outlander may be the better buy."
+      },
+      {
+        "quality": "ok",
+        "text": "A lot of the benefit needs a plug. Where does the car sleep?"
+      },
+      {
+        "quality": "poor",
+        "text": "You can run a cord from a window. Stratas never care."
+      },
+      {
+        "quality": "poor",
+        "text": "You don't need to plug it in. The range is the same either way."
+      }
+    ],
+    "explanation": "Charging access decides the PHEV. Do not invent a strata approval."
+  },
+  {
+    "id": "honda-reliable",
+    "customer": "Honda is more reliable. Everyone knows that.",
+    "context": "CR-V owner, arms folded.",
+    "skill": "competitor",
+    "category": "competitor",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "Honda earns that reputation. I won't debate a feeling. I can show you seven seats, S-AWC and a longer powertrain warranty, and you can tell me if any of that matters more."
+      },
+      {
+        "quality": "ok",
+        "text": "Reliability is a fair thing to want. The warranty is how we put a number on ours."
+      },
+      {
+        "quality": "poor",
+        "text": "Honda is coasting on the nineties. They're junk now."
+      },
+      {
+        "quality": "poor",
+        "text": "Reliability stats say we win. I read it somewhere."
+      }
+    ],
+    "explanation": "Respect the reputation. Move to seats, system and warranty."
+  },
+  {
+    "id": "bank-rate",
+    "customer": "Your rate is worse than my bank.",
+    "context": "They have a pre-approval and expect a trap.",
+    "skill": "finance",
+    "category": "finance",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "Tell me the rate and the term. If your bank wins, we use it. The car decision doesn't depend on trapping the loan."
+      },
+      {
+        "quality": "ok",
+        "text": "Let the desk compare them on one page before you decide we're automatically higher."
+      },
+      {
+        "quality": "poor",
+        "text": "Banks are always worse once you read the real conditions. Just finance here."
+      },
+      {
+        "quality": "poor",
+        "text": "I can mark the rate down myself. What do you want it to be?"
+      }
+    ],
+    "explanation": "A clean rate comparison builds trust. You do not freelance the rate."
+  },
+  {
+    "id": "think-about-it",
+    "customer": "I need to think about it.",
+    "context": "The drive went well. They are drifting to the door.",
+    "skill": "close",
+    "category": "stall",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "Of course. What's the open item: the payment, the partner, the trade, or something on the car? Let's name it before you go."
+      },
+      {
+        "quality": "ok",
+        "text": "Take the time. Can we book twenty minutes tomorrow so the thinking has the missing number in it?"
+      },
+      {
+        "quality": "poor",
+        "text": "No problem. Here's a brochure."
+      },
+      {
+        "quality": "poor",
+        "text": "This exact car will be gone in an hour. Thinking is how you lose it."
+      }
+    ],
+    "explanation": "A stall hides one decision. Isolate it. Fake scarcity burns trust."
+  },
+  {
+    "id": "email-quote",
+    "customer": "Just email me a quote.",
+    "context": "They won't sit down.",
+    "skill": "close",
+    "category": "stall",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "I will. Tell me the trim and what has to be in the number, taxes included. Then let's put a time on the calendar to read it together so it doesn't become a screenshot with no context."
+      },
+      {
+        "quality": "ok",
+        "text": "I can email the MSRP tonight, clearly marked as not out-the-door, and follow up tomorrow."
+      },
+      {
+        "quality": "poor",
+        "text": "Sure. I'll send three payments with no term and no down payment."
+      },
+      {
+        "quality": "poor",
+        "text": "We don't email prices."
+      }
+    ],
+    "explanation": "An unanchored email becomes someone else's objection. Label it and book the review."
+  },
+  {
+    "id": "payment-high",
+    "customer": "That payment is too high.",
+    "context": "First pencil is $70 over their ceiling.",
+    "skill": "finance",
+    "category": "finance",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "Which lever can you move: down payment, term, or trim? I'll show the total cost of each so a lower payment doesn't quietly cost more."
+      },
+      {
+        "quality": "ok",
+        "text": "Let's see what a longer term does, and I'll tell you what it adds in interest before you pick it."
+      },
+      {
+        "quality": "poor",
+        "text": "We'll do 96 months and not talk about the total."
+      },
+      {
+        "quality": "poor",
+        "text": "Then you can't afford the car. Sorry."
+      }
+    ],
+    "explanation": "Payment is a structure. Show the total, not just the monthly."
+  },
+  {
+    "id": "upside-down",
+    "customer": "I owe more than my trade is worth.",
+    "context": "They know, and they are embarrassed.",
+    "skill": "trade",
+    "category": "trade",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "We'll put the shortfall on the page. You can roll some, write a cheque, or do both. I won't hide it inside the payment."
+      },
+      {
+        "quality": "ok",
+        "text": "It happens. The appraiser still needs to see the car before anyone talks about how much is buried."
+      },
+      {
+        "quality": "poor",
+        "text": "Negative equity disappears if we pick the right term."
+      },
+      {
+        "quality": "poor",
+        "text": "We don't deal with upside-down trades. Sell it yourself."
+      }
+    ],
+    "explanation": "Name the shortfall. Hiding it creates the next upside-down loan."
+  },
+  {
+    "id": "leaving-canada",
+    "customer": "I heard Mitsubishi is leaving Canada.",
+    "context": "A rumour from a group chat.",
+    "skill": "trust",
+    "category": "brand",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "The rumour recycles. Mitsubishi Motor Sales of Canada is launching current product, including the 2026 lineup you're sitting in, through its dealer network. Warranty claims don't depend on a Facebook thread."
+      },
+      {
+        "quality": "ok",
+        "text": "I hear that one a lot. Look at what's on the ground this model year, and at the warranty terms in the booklet, not at a repost."
+      },
+      {
+        "quality": "poor",
+        "text": "They might be. I'd buy the extended warranty just in case."
+      },
+      {
+        "quality": "poor",
+        "text": "If they leave, your warranty is worthless, so decide fast."
+      }
+    ],
+    "explanation": "Do not feed the rumour or use it to scare-sell a product."
+  },
+  {
+    "id": "brand-shrinking",
+    "customer": "The Mirage is gone. The brand is shrinking.",
+    "context": "They wanted a cheap new car.",
+    "skill": "product",
+    "category": "brand",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "The Mirage ended after 2024. That's a model, not the store. The current lineup is RVR, Eclipse Cross, Outlander and Outlander PHEV. Which job were you hiring the Mirage to do?"
+      },
+      {
+        "quality": "ok",
+        "text": "City cars got hard to build at that price. Tell me the payment and the parking spot and we'll pick from what we can actually order."
+      },
+      {
+        "quality": "poor",
+        "text": "We can still order a Mirage. The website is behind."
+      },
+      {
+        "quality": "poor",
+        "text": "Good riddance. It was embarrassing."
+      }
+    ],
+    "explanation": "Acknowledge the end of the Mirage and pivot to a real 2026 job."
+  },
+  {
+    "id": "rav4-fuel",
+    "customer": "The RAV4 Hybrid sips fuel. You can't touch it.",
+    "context": "They have the NRCan tab open.",
+    "skill": "competitor",
+    "category": "competitor",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "You're right. I won't fight that number. Do you ever need a third row, or a plug-in commute the hybrid can't do?"
+      },
+      {
+        "quality": "ok",
+        "text": "The hybrid wins on pump litres. Our case has to be something else, or you should buy the Toyota."
+      },
+      {
+        "quality": "poor",
+        "text": "Our 8.7 combined is basically the same."
+      },
+      {
+        "quality": "poor",
+        "text": "Hybrids are a fad. Gas is simpler and cheaper to run."
+      }
+    ],
+    "explanation": "Agree, then move to seats or the PHEV. Never call 8.7 a tie."
+  },
+  {
+    "id": "awd-is-awd",
+    "customer": "AWD is AWD. Yours is just marketing.",
+    "context": "They drive to the mountains a few times a winter.",
+    "skill": "benefit",
+    "category": "product",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "They aren't identical. I can show you the Snow and Gravel modes, and I'll still tell you to buy winter tires. Want to feel the button, or is the tire the real question?"
+      },
+      {
+        "quality": "ok",
+        "text": "Fair challenge. The useful version is a mode you select on purpose, not a slogan."
+      },
+      {
+        "quality": "poor",
+        "text": "S-AWC locks every wheel all the time. It's unstoppable."
+      },
+      {
+        "quality": "poor",
+        "text": "You're right, it's all marketing. Buy on colour."
+      }
+    ],
+    "explanation": "Explain selectable modes and do not skip winter tires."
+  },
+  {
+    "id": "wait-2027",
+    "customer": "I'll wait for the next model year.",
+    "context": "They like the 2026 in front of them.",
+    "skill": "close",
+    "category": "stall",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "What do you want that this one doesn't do? The warranty starts when you drive it home. A future model doesn't carry the kids in the meantime."
+      },
+      {
+        "quality": "ok",
+        "text": "You can wait. If the reason is a feature, let's see if it's already here before you lose a year."
+      },
+      {
+        "quality": "poor",
+        "text": "The next one will be worse. Buy now."
+      },
+      {
+        "quality": "poor",
+        "text": "The redesign will be cheaper. I'd wait if I were you."
+      }
+    ],
+    "explanation": "Find the missing feature. Do not badmouth your own stock or invent the next price."
+  },
+  {
+    "id": "spouse",
+    "customer": "My spouse has to see it.",
+    "context": "Real second decision-maker, not a brush-off. Could be either.",
+    "skill": "close",
+    "category": "stall",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "Good. What time are you both free? I'll send the exact stock card so the conversation at home matches what we just drove."
+      },
+      {
+        "quality": "ok",
+        "text": "Bring them. Evenings work, and I'll hold the notes from today so you don't have to repeat yourself."
+      },
+      {
+        "quality": "poor",
+        "text": "Spouses always say no. Decide while you're here."
+      },
+      {
+        "quality": "poor",
+        "text": "Sign now and they can see it at delivery."
+      }
+    ],
+    "explanation": "Get both buyers in the vehicle. Do not trick the absent one."
+  },
+  {
+    "id": "internet-price",
+    "customer": "The internet price is lower than what you just said.",
+    "context": "They are comparing MSRP to an out-the-door figure.",
+    "skill": "trust",
+    "category": "price",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "Let's line them up. MSRP excludes freight, PDI and taxes. If the other number is out-the-door, we'll build ours the same way."
+      },
+      {
+        "quality": "ok",
+        "text": "Send me the link. I want to see whether it's the same trim before I explain the gap."
+      },
+      {
+        "quality": "poor",
+        "text": "The internet is wrong. Pay the number on my worksheet."
+      },
+      {
+        "quality": "poor",
+        "text": "MSRP is what you pay to drive away. The rest is optional."
+      }
+    ],
+    "explanation": "MSRP is not out-the-door. Build both quotes with the same lines."
+  },
+  {
+    "id": "sunroof-leak",
+    "customer": "Sunroofs leak. I don't want one in this rain.",
+    "context": "They like the SE otherwise.",
+    "skill": "objection",
+    "category": "product",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "A neglected drain can leak on any brand. If you don't want the roof, ES exists and we won't force the glass. If you want the SE equipment, we'll show you the drains and the warranty terms."
+      },
+      {
+        "quality": "ok",
+        "text": "I won't promise a sunroof can never leak. I can show you an ES if you'd rather not have one."
+      },
+      {
+        "quality": "poor",
+        "text": "Ours are sealed forever. Impossible for them to leak."
+      },
+      {
+        "quality": "poor",
+        "text": "Then you can't have a nice trim. Roofs come with everything."
+      }
+    ],
+    "explanation": "ES has no sunroof. Do not claim a roof can never leak."
+  },
+  {
+    "id": "only-five",
+    "customer": "I only need five seats. The third row is wasted money.",
+    "context": "They are in an Outlander by habit.",
+    "skill": "discovery",
+    "category": "product",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "Then don't pay for a seat you'll fold forever. Eclipse Cross or RVR may fit better. When do you carry more than four?"
+      },
+      {
+        "quality": "ok",
+        "text": "You can live with it folded. Let's make sure the cargo shape still works for you before we abandon it."
+      },
+      {
+        "quality": "poor",
+        "text": "Everyone ends up needing seven. Just buy it."
+      },
+      {
+        "quality": "poor",
+        "text": "Five-seat Mitsubishi SUVs don't exist anymore."
+      }
+    ],
+    "explanation": "Switch models if the third row is truly useless to them."
+  },
+  {
+    "id": "real-hybrid",
+    "customer": "I want a real hybrid, not a tiny battery.",
+    "context": "They are looking at the gas Outlander and a Tucson Hybrid.",
+    "skill": "phev",
+    "category": "phev",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "The gas Outlander is a 48-volt mild hybrid. It is not a full hybrid and it does not plug in. If you want electric kilometres, that's the PHEV. If you want a Toyota-style hybrid, I'll say so and we compare honestly."
+      },
+      {
+        "quality": "ok",
+        "text": "Let me separate the mild hybrid from the plug-in before we go further. They solve different jobs."
+      },
+      {
+        "quality": "poor",
+        "text": "Mild hybrid means you can plug it in on weekends."
+      },
+      {
+        "quality": "poor",
+        "text": "Full hybrids are a scam. Mild is the same thing."
+      }
+    ],
+    "explanation": "Never call the 48-volt system a plug-in or a full hybrid."
+  },
+  {
+    "id": "tucson-toys",
+    "customer": "The Tucson has more toys for the money.",
+    "context": "They want a feature-count win.",
+    "skill": "competitor",
+    "category": "competitor",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "Let's list the toys you named, on the trims that actually have them, and then warranty and seats. A longer feature list you won't use loses to two features you will."
+      },
+      {
+        "quality": "ok",
+        "text": "Feature count isn't the same as a fit. Tell me the three you would notice on a night drive."
+      },
+      {
+        "quality": "poor",
+        "text": "We have more features. I don't need the list."
+      },
+      {
+        "quality": "poor",
+        "text": "Hyundai loads cars with junk that breaks."
+      }
+    ],
+    "explanation": "Compare the features they named, on the right trims."
+  },
+  {
+    "id": "old-rvr",
+    "customer": "I read old RVR reviews. They weren't kind.",
+    "context": "They are in a 2026 RVR and holding a phone.",
+    "skill": "trust",
+    "category": "product",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "Some of those reviews are about older powertrains and cabins. This one still isn't a luxury car. Tell me which complaint you remember and we'll see if it's still true on this drive."
+      },
+      {
+        "quality": "ok",
+        "text": "Read them with me. I'd rather answer a specific complaint than a headline."
+      },
+      {
+        "quality": "poor",
+        "text": "Reviewers don't know how to drive."
+      },
+      {
+        "quality": "poor",
+        "text": "That was a different RVR and every problem is fixed. All of them."
+      }
+    ],
+    "explanation": "Invite the specific complaint. Do not claim every old issue vanished."
+  },
+  {
+    "id": "twenty-minutes",
+    "customer": "I have twenty minutes. Impress me.",
+    "context": "Lunch break, keys still in their hand.",
+    "skill": "discovery",
+    "category": "process",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "One question: what does the car have to do on a normal Tuesday? I'll show you that, and we'll book the longer drive if it earns it."
+      },
+      {
+        "quality": "ok",
+        "text": "We can sit in the one that fits a family of your size and pair your phone. The test drive can be tonight."
+      },
+      {
+        "quality": "poor",
+        "text": "Twenty minutes is enough for the whole lineup, the credit app and a write-up."
+      },
+      {
+        "quality": "poor",
+        "text": "Come back when you're serious."
+      }
+    ],
+    "explanation": "Short visits need one use-case and a next step."
+  },
+  {
+    "id": "feels-cheap-2016",
+    "customer": "I sat in a 2016 Outlander. It felt cheap.",
+    "context": "They have not sat in the 2026 yet.",
+    "skill": "trust",
+    "category": "product",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "A 2016 should feel dated. Sit in this one and tell me what \"cheap\" meant: the wheel, the screen, the seat, or the noise. We'll check that thing, not my opinion."
+      },
+      {
+        "quality": "ok",
+        "text": "Ten years is a long time in a cabin. Give this one a fair sit before you decide it's the same car."
+      },
+      {
+        "quality": "poor",
+        "text": "Nothing has changed and that's a good thing. Mitsubishi doesn't chase trends."
+      },
+      {
+        "quality": "poor",
+        "text": "2016 was class-leading. Your memory is off."
+      }
+    ],
+    "explanation": "Let the 2026 cabin answer a specific memory."
+  },
+  {
+    "id": "sell-in-four",
+    "customer": "Warranty doesn't matter. I sell cars in four years.",
+    "context": "They lease or trade quickly.",
+    "skill": "benefit",
+    "category": "warranty",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "Then the 10-year powertrain matters to the next buyer and to your residual conversation, and the 5-year roadside matters to you. If you truly trade at four, let's talk kilometres and a lease cap before a finance term."
+      },
+      {
+        "quality": "ok",
+        "text": "Short ownership changes the pitch. How many kilometres will you put on, and do you want a lease?"
+      },
+      {
+        "quality": "poor",
+        "text": "Warranty never matters. Forget I mentioned it."
+      },
+      {
+        "quality": "poor",
+        "text": "You say that now. Everyone keeps cars twelve years."
+      }
+    ],
+    "explanation": "Short ownership points at lease kilometres and the next buyer, not a lecture."
+  },
+  {
+    "id": "want-lease",
+    "customer": "I want to lease, not finance.",
+    "context": "They commute Port Coquitlam to Vancouver.",
+    "skill": "finance",
+    "category": "finance",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "Good option if the kilometres fit. How far do you drive in a year? I don't want a pretty payment with a cap you'll blow by summer."
+      },
+      {
+        "quality": "ok",
+        "text": "We can lease. The desk will need your yearly kilometres and how long you keep cars."
+      },
+      {
+        "quality": "poor",
+        "text": "Leasing is a waste. I'm going to show you finance only."
+      },
+      {
+        "quality": "poor",
+        "text": "Here's a lease at 12,000 km a year. Everyone qualifies for that."
+      }
+    ],
+    "explanation": "Ask yearly kilometres before you quote a lease cap."
+  },
+  {
+    "id": "noir-swirl",
+    "customer": "Black paint swirls if you look at it.",
+    "context": "They want a Noir and they wash carefully.",
+    "skill": "trust",
+    "category": "product",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "Black shows wash marks. Noir is the styling, not a harder paint. If you like the look, we talk wash habits. I won't throw in a ceramic coat I haven't priced."
+      },
+      {
+        "quality": "ok",
+        "text": "If swirls will bother you every Sunday, look at a colour that hides it. I'd rather lose the Noir than sell you a weekly regret."
+      },
+      {
+        "quality": "poor",
+        "text": "Our black paint cannot swirl. It's a special clear."
+      },
+      {
+        "quality": "poor",
+        "text": "We'll ceramic it for free. I promise."
+      }
+    ],
+    "explanation": "Noir is appearance, not magic paint. Do not gift unpriced protection."
+  },
+  {
+    "id": "winter-tires",
+    "customer": "Throw in winter tires.",
+    "context": "They are ready to buy an Outlander and it is November.",
+    "skill": "close",
+    "category": "price",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "The car comes with all-seasons. S-AWC does not replace winters. I'll ask the desk what a tire package costs before I say yes."
+      },
+      {
+        "quality": "ok",
+        "text": "We can price tires as their own line. I don't want them hidden so the payment looks cute."
+      },
+      {
+        "quality": "poor",
+        "text": "Done. I'll pay for them out of my commission."
+      },
+      {
+        "quality": "poor",
+        "text": "You don't need winters with this system."
+      }
+    ],
+    "explanation": "Price the tires or do not offer them. S-AWC is not a tire."
+  },
+  {
+    "id": "doc-fee",
+    "customer": "What's this documentation fee? It feels like a junk fee.",
+    "context": "They are reading the worksheet line by line.",
+    "skill": "trust",
+    "category": "price",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "It's a fee, and you should see it now rather than at the signature. I'll tell you what it is in this store and we'll leave it on the page with the taxes, not folded into the payment unspoken."
+      },
+      {
+        "quality": "ok",
+        "text": "Ask me about every line. If I can't name it, it shouldn't be a surprise later."
+      },
+      {
+        "quality": "poor",
+        "text": "Everyone charges it. Stop reading."
+      },
+      {
+        "quality": "poor",
+        "text": "I'll delete it and bury it somewhere else so the page looks clean."
+      }
+    ],
+    "explanation": "Name the fee. Moving it is not removing it."
+  },
+  {
+    "id": "phev-winter-range",
+    "customer": "My friend's plug-in was useless in January.",
+    "context": "They still like the PHEV commute story.",
+    "skill": "phev",
+    "category": "phev",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "Cold cuts electric range. Their friend wasn't wrong. On a bad morning the engine helps, which is why this is a plug-in hybrid and not a pure EV. How far is your worst day, not your average?"
+      },
+      {
+        "quality": "ok",
+        "text": "January is the test. Let's see if your commute still fits when the 72 km becomes less than 72."
+      },
+      {
+        "quality": "poor",
+        "text": "Our battery ignores the cold. 72 km, all winter."
+      },
+      {
+        "quality": "poor",
+        "text": "Then don't buy a PHEV. Your friend settled it."
+      }
+    ],
+    "explanation": "Agree that winter cuts range. Ask about the worst day."
+  },
+  {
+    "id": "manager-discount",
+    "customer": "Go get your manager. I only deal with the boss.",
+    "context": "You have not finished discovery.",
+    "skill": "objection",
+    "category": "process",
+    "responses": [
+      {
+        "quality": "best",
+        "text": "You can meet them. First I need the trim, the trade and the payment target so the manager walks in with a number, not a handshake."
+      },
+      {
+        "quality": "ok",
+        "text": "I'll bring them when we have something to decide. Right now we'd be introducing you twice."
+      },
+      {
+        "quality": "poor",
+        "text": "They're busy. You get me."
+      },
+      {
+        "quality": "poor",
+        "text": "Sure. I'll go get a discount before I know which car you want."
+      }
+    ],
+    "explanation": "A manager with no facts can only guess. Finish the picture first."
+  }
+]

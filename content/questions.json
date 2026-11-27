@@ -1,0 +1,2807 @@
+[
+  {
+    "id": "ol-sunroof",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 2,
+    "prompt": "A shopper asks where the 2026 Outlander first gets a power panoramic sunroof. Which trim do you walk them to?",
+    "choices": [
+      "ES S-AWC",
+      "SE S-AWC",
+      "LE S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 1,
+    "explanation": "The sunroof arrives at SE, along with the wireless charger, FAST-Key, heated steering wheel and hands-free liftgate. ES does not have it. Open the window sticker before you promise glass.",
+    "rev": 1
+  },
+  {
+    "id": "ol-charger",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 3,
+    "prompt": "A shopper asks where the 2026 Outlander first gets a smartphone wireless charger. Which trim do you walk them to?",
+    "choices": [
+      "ES S-AWC",
+      "SE S-AWC",
+      "LE S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 1,
+    "explanation": "Wireless charging is an SE feature on the 2026 gas Outlander. If their phone matters, sit them in an SE or above and say so plainly.",
+    "rev": 1
+  },
+  {
+    "id": "ol-wheel",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 4,
+    "prompt": "A shopper asks where the 2026 Outlander first gets a heated steering wheel. Which trim do you walk them to?",
+    "choices": [
+      "ES S-AWC",
+      "SE S-AWC",
+      "LE S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 1,
+    "explanation": "Heated steering wheel starts at SE. In a Port Coquitlam winter that is a real reason to step up, and only if the truck you are presenting actually has it.",
+    "rev": 1
+  },
+  {
+    "id": "ol-liftgate",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 1,
+    "prompt": "A shopper asks where the 2026 Outlander first gets a hands-free power liftgate. Which trim do you walk them to?",
+    "choices": [
+      "ES S-AWC",
+      "SE S-AWC",
+      "LE S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 1,
+    "explanation": "Hands-free power liftgate with adjustable height is SE. Parents with hands full of car seats feel this on the second visit to the lot. Do not demo it on an ES.",
+    "rev": 1
+  },
+  {
+    "id": "ol-3zone",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 2,
+    "prompt": "A shopper asks where the 2026 Outlander first gets 3-zone automatic climate control. Which trim do you walk them to?",
+    "choices": [
+      "ES S-AWC",
+      "SE S-AWC",
+      "LE S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 1,
+    "explanation": "ES is dual-zone. The third zone arrives at SE. Say that out loud when a family complains the kids are always too hot.",
+    "rev": 1
+  },
+  {
+    "id": "ol-fastkey",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 3,
+    "prompt": "A shopper asks where the 2026 Outlander first gets FAST-Key keyless entry. Which trim do you walk them to?",
+    "choices": [
+      "ES S-AWC",
+      "SE S-AWC",
+      "LE S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 1,
+    "explanation": "FAST-Key is part of the SE equipment group. Know the step so you stop reading a brochure like a tourist.",
+    "rev": 1
+  },
+  {
+    "id": "ol-fog",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 4,
+    "prompt": "A shopper asks where the 2026 Outlander first gets LED fog lights. Which trim do you walk them to?",
+    "choices": [
+      "ES S-AWC",
+      "SE S-AWC",
+      "LE S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 1,
+    "explanation": "LED fog lights are an SE addition, with the grey skid-plate styling and power-folding heated mirrors.",
+    "rev": 1
+  },
+  {
+    "id": "ol-acc",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 1,
+    "prompt": "A shopper asks where the 2026 Outlander first gets adaptive cruise control. Which trim do you walk them to?",
+    "choices": [
+      "ES S-AWC",
+      "SE S-AWC",
+      "LE S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 2,
+    "explanation": "On the gas Outlander, adaptive cruise starts at LE. Stop-and-go cruise is a further step, at GT. Do not say \"it has radar cruise\" until you are in an LE or higher.",
+    "rev": 1
+  },
+  {
+    "id": "ol-18",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 2,
+    "prompt": "A shopper asks where the 2026 Outlander first gets 18-inch two-tone alloy wheels. Which trim do you walk them to?",
+    "choices": [
+      "ES S-AWC",
+      "SE S-AWC",
+      "LE S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 2,
+    "explanation": "LE rides on 18-inch two-tone alloys. SEL and above move to 20-inch wheels. Wheel size is a trim fact, not a vibe.",
+    "rev": 1
+  },
+  {
+    "id": "ol-suede",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 3,
+    "prompt": "A shopper asks where the 2026 Outlander first gets microsuede and synthetic leather seating. Which trim do you walk them to?",
+    "choices": [
+      "ES S-AWC",
+      "SE S-AWC",
+      "LE S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 2,
+    "explanation": "LE is the microsuede step. Quilted leather-appointed seating waits for SEL. If they hate cloth, do not park them in an ES.",
+    "rev": 1
+  },
+  {
+    "id": "ol-nav",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 4,
+    "prompt": "A shopper asks where the 2026 Outlander first gets embedded navigation. Which trim do you walk them to?",
+    "choices": [
+      "ES S-AWC",
+      "SE S-AWC",
+      "LE S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 2,
+    "explanation": "Embedded navigation is LE. ES and SE use the 12.3-inch smartphone-link display with wireless Apple CarPlay and Android Auto, which is not the same as built-in nav.",
+    "rev": 1
+  },
+  {
+    "id": "ol-360",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 1,
+    "prompt": "A shopper asks where the 2026 Outlander first gets a multi-view camera system with moving-object detection. Which trim do you walk them to?",
+    "choices": [
+      "ES S-AWC",
+      "SE S-AWC",
+      "LE S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 2,
+    "explanation": "The 360-degree Multi View Camera System arrives at LE. Tight parkades downtown are the demo. ES does not have it.",
+    "rev": 1
+  },
+  {
+    "id": "ol-connect",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 2,
+    "prompt": "A shopper asks where the 2026 Outlander first gets Mitsubishi Connect. Which trim do you walk them to?",
+    "choices": [
+      "ES S-AWC",
+      "SE S-AWC",
+      "LE S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 2,
+    "explanation": "Mitsubishi Connect, with the trial that requires app enrollment, is an LE item. Mention the enrollment step so the app is not a surprise at delivery.",
+    "rev": 1
+  },
+  {
+    "id": "ol-360l",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 3,
+    "prompt": "A shopper asks where the 2026 Outlander first gets SiriusXM with 360L. Which trim do you walk them to?",
+    "choices": [
+      "ES S-AWC",
+      "SE S-AWC",
+      "LE S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 2,
+    "explanation": "Every Outlander includes a SiriusXM trial. The 360L service is the LE upgrade. Three months is a trial, not a lifetime subscription. Say that.",
+    "rev": 1
+  },
+  {
+    "id": "ol-20",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 4,
+    "prompt": "A shopper asks where the 2026 Outlander first gets 20-inch two-tone alloys. Which trim do you walk them to?",
+    "choices": [
+      "SE S-AWC",
+      "LE S-AWC",
+      "SEL S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 2,
+    "explanation": "20-inch two-tone wheels start at SEL. LE is 18-inch. A buyer who wants the big wheel is an SEL conversation, including the ride that comes with it.",
+    "rev": 1
+  },
+  {
+    "id": "ol-heat2",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 1,
+    "prompt": "A shopper asks where the 2026 Outlander first gets heated second-row seats. Which trim do you walk them to?",
+    "choices": [
+      "SE S-AWC",
+      "LE S-AWC",
+      "SEL S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 2,
+    "explanation": "Heated second row is SEL. That is the trim for the parent who rides in back on the way to Golden Ears, not a feature you invent on an SE.",
+    "rev": 1
+  },
+  {
+    "id": "ol-vent",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 2,
+    "prompt": "A shopper asks where the 2026 Outlander first gets ventilated front seats. Which trim do you walk them to?",
+    "choices": [
+      "SE S-AWC",
+      "LE S-AWC",
+      "SEL S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 2,
+    "explanation": "Ventilated fronts arrive with the leather-appointed SEL. It is a summer feature you can still sell in November because August always comes back.",
+    "rev": 1
+  },
+  {
+    "id": "ol-memory",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 3,
+    "prompt": "A shopper asks where the 2026 Outlander first gets memory for the driver seat and mirrors. Which trim do you walk them to?",
+    "choices": [
+      "SE S-AWC",
+      "LE S-AWC",
+      "SEL S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 2,
+    "explanation": "Key-linked memory for the seat and exterior mirrors is SEL. Two-driver households feel it the first week. LE has power, not memory.",
+    "rev": 1
+  },
+  {
+    "id": "ol-leather",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 4,
+    "prompt": "A shopper asks where the 2026 Outlander first gets leather-appointed seats. Which trim do you walk them to?",
+    "choices": [
+      "SE S-AWC",
+      "LE S-AWC",
+      "SEL S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 2,
+    "explanation": "Leather-appointed seating starts at SEL. LE is microsuede. GT Premium steps up again to semi-aniline. Use the right word for the chair they are sitting in.",
+    "rev": 1
+  },
+  {
+    "id": "ol-cluster",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 1,
+    "prompt": "A shopper asks where the 2026 Outlander first gets a 12.3-inch full digital driver display. Which trim do you walk them to?",
+    "choices": [
+      "SE S-AWC",
+      "LE S-AWC",
+      "SEL S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 2,
+    "explanation": "On the gas Outlander the 12.3-inch digital cluster starts at SEL. The 12.3-inch centre screen is already on ES. Those are different screens. Do not blur them.",
+    "rev": 1
+  },
+  {
+    "id": "ol-rain",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 2,
+    "prompt": "A shopper asks where the 2026 Outlander first gets rain-sensing wipers. Which trim do you walk them to?",
+    "choices": [
+      "SE S-AWC",
+      "LE S-AWC",
+      "SEL S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 2,
+    "explanation": "Rain-sensing wipers are SEL on the gas Outlander. Around here that is a daily-use feature, and it is still not on the ES.",
+    "rev": 1
+  },
+  {
+    "id": "ol-home",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 3,
+    "prompt": "A shopper asks where the 2026 Outlander first gets HomeLink in the mirror. Which trim do you walk them to?",
+    "choices": [
+      "SE S-AWC",
+      "LE S-AWC",
+      "SEL S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 2,
+    "explanation": "HomeLink arrives with the SEL auto-dimming mirror. Garage-door households in the Tri-Cities ask. The answer is SEL, not \"I think so\".",
+    "rev": 1
+  },
+  {
+    "id": "ol-hud",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 4,
+    "prompt": "A shopper asks where the 2026 Outlander first gets a 10.8-inch head-up display. Which trim do you walk them to?",
+    "choices": [
+      "ES S-AWC",
+      "SE S-AWC",
+      "LE S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 3,
+    "explanation": "The 10.8-inch HUD is GT. So are the 12-speaker Yamaha Ultimate system, front parking sensors and the higher driver aids. If they want the HUD, you are in a GT.",
+    "rev": 1
+  },
+  {
+    "id": "ol-yamaha12",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 1,
+    "prompt": "A shopper asks where the 2026 Outlander first gets the 12-speaker Yamaha Ultimate audio. Which trim do you walk them to?",
+    "choices": [
+      "ES S-AWC",
+      "SE S-AWC",
+      "LE S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 3,
+    "explanation": "ES through SEL use the 8-speaker Yamaha Premium system. The 12-speaker Ultimate system is GT. Both are Yamaha. The speaker count is the trim tell.",
+    "rev": 1
+  },
+  {
+    "id": "ol-stopgo",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 2,
+    "prompt": "A shopper asks where the 2026 Outlander first gets adaptive cruise with stop and go. Which trim do you walk them to?",
+    "choices": [
+      "ES S-AWC",
+      "SE S-AWC",
+      "LE S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 3,
+    "explanation": "LE has adaptive cruise. GT adds stop and go, plus lane departure prevention, active blind spot assist and traffic sign recognition. Highway 1 traffic is the GT story.",
+    "rev": 1
+  },
+  {
+    "id": "ol-ldp",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 3,
+    "prompt": "A shopper asks where the 2026 Outlander first gets lane departure prevention. Which trim do you walk them to?",
+    "choices": [
+      "ES S-AWC",
+      "SE S-AWC",
+      "LE S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 3,
+    "explanation": "Lane departure prevention is a GT aid on the gas Outlander. It is a driver aid, not a self-driving system. Say the limitation in the same breath as the feature.",
+    "rev": 1
+  },
+  {
+    "id": "ol-absa",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 4,
+    "prompt": "A shopper asks where the 2026 Outlander first gets active blind spot assist. Which trim do you walk them to?",
+    "choices": [
+      "ES S-AWC",
+      "SE S-AWC",
+      "LE S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 3,
+    "explanation": "Active blind spot assist is GT equipment. Blind-spot warning on other Mitsubishi models is not the same feature. Name the one this trim actually has.",
+    "rev": 1
+  },
+  {
+    "id": "ol-semi",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 1,
+    "prompt": "A shopper asks where the 2026 Outlander first gets semi-aniline leather-appointed seats. Which trim do you walk them to?",
+    "choices": [
+      "SEL S-AWC",
+      "GT S-AWC",
+      "GT Premium S-AWC",
+      "Noir S-AWC"
+    ],
+    "answer": 2,
+    "explanation": "GT Premium is the semi-aniline interior with brown stitch, plus the frameless digital rearview mirror. GT leather-appointed is the step below. Noir is the blacked-out version of that top cabin.",
+    "rev": 1
+  },
+  {
+    "id": "ol-drm",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 2,
+    "prompt": "A shopper asks where the 2026 Outlander first gets a frameless digital rearview mirror. Which trim do you walk them to?",
+    "choices": [
+      "SEL S-AWC",
+      "GT S-AWC",
+      "GT Premium S-AWC",
+      "Noir S-AWC"
+    ],
+    "answer": 2,
+    "explanation": "The frameless digital rearview mirror with HomeLink is GT Premium and Noir. It is not on the GT. If the third row and headrests block their view, this is the honest upgrade.",
+    "rev": 1
+  },
+  {
+    "id": "ol-headliner",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 3,
+    "prompt": "A shopper asks where the 2026 Outlander first gets a black headliner and Noir badge. Which trim do you walk them to?",
+    "choices": [
+      "SEL S-AWC",
+      "GT S-AWC",
+      "GT Premium S-AWC",
+      "Noir S-AWC"
+    ],
+    "answer": 3,
+    "explanation": "Noir is the appearance package: black wheels, black Dynamic Shield, black mirrors, black roof rails, dark emblems, black headliner, aluminum pedals, from $49,748 MSRP. It is not a different powertrain.",
+    "rev": 1
+  },
+  {
+    "id": "ol-es-standard",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 4,
+    "prompt": "What is already standard on a 2026 Outlander ES S-AWC, before any step-up?",
+    "choices": [
+      "S-AWC, seven seats, 12.3-inch smartphone screen, 8-speaker Yamaha, wireless CarPlay and Android Auto",
+      "Panoramic sunroof, heated steering wheel and 360 camera",
+      "Head-up display, 12-speaker Yamaha and massage seats",
+      "Leather, memory seats and a digital gauge cluster"
+    ],
+    "answer": 0,
+    "explanation": "ES is not a stripper in the way people assume. S-AWC, 11 airbags, seven-passenger seating, dual-zone climate, the 12.3-inch display, wireless phone projection and 8-speaker Yamaha are standard. The sunroof and 360 camera are not.",
+    "rev": 1
+  },
+  {
+    "id": "ol-price-es",
+    "vehicle": "Outlander",
+    "category": "pricing",
+    "skill": "product",
+    "bucket": 1,
+    "prompt": "A guest asks the MSRP of a 2026 Outlander ES S-AWC. You quote which figure, before freight, PDI and taxes?",
+    "choices": [
+      "$36,398",
+      "$39,098",
+      "$42,198",
+      "$46,998"
+    ],
+    "answer": 0,
+    "explanation": "ES starts at $36,398. $39,098 is SE, $42,198 is LE, and $46,998 is the Outlander PHEV ES, a different vehicle. Always add that freight, PDI and taxes are extra, then let the desk build the payment.",
+    "rev": 1
+  },
+  {
+    "id": "ol-price-se",
+    "vehicle": "Outlander",
+    "category": "pricing",
+    "skill": "product",
+    "bucket": 2,
+    "prompt": "Which MSRP matches the 2026 Outlander SE S-AWC?",
+    "choices": [
+      "$36,398",
+      "$39,098",
+      "$44,898",
+      "$47,398"
+    ],
+    "answer": 1,
+    "explanation": "SE is $39,098. SEL is $44,898 and GT is $47,398. Quote the trim they are sitting in, not the one you wish they would buy.",
+    "rev": 1
+  },
+  {
+    "id": "ol-price-gt",
+    "vehicle": "Outlander",
+    "category": "pricing",
+    "skill": "product",
+    "bucket": 3,
+    "prompt": "The 2026 Outlander GT S-AWC MSRP is:",
+    "choices": [
+      "$44,898",
+      "$47,398",
+      "$48,398",
+      "$49,748"
+    ],
+    "answer": 1,
+    "explanation": "GT is $47,398. GT Premium is $48,398. Noir is $49,748. The $1,000 steps are easy to blur. Read the sticker.",
+    "rev": 1
+  },
+  {
+    "id": "ol-price-noir",
+    "vehicle": "Outlander",
+    "category": "pricing",
+    "skill": "product",
+    "bucket": 4,
+    "prompt": "Someone wants the blacked-out 2026 Outlander. The Noir S-AWC MSRP is:",
+    "choices": [
+      "$47,398",
+      "$48,398",
+      "$49,748",
+      "$63,048"
+    ],
+    "answer": 2,
+    "explanation": "Gas Noir is $49,748. $63,048 is the Outlander PHEV GT Noir, which is a plug-in with a much bigger number. Mixing those two up is how a deal blows up in F&I.",
+    "rev": 1
+  },
+  {
+    "id": "ol-engine",
+    "vehicle": "Outlander",
+    "category": "specs",
+    "skill": "product",
+    "bucket": 0,
+    "prompt": "What powers the 2026 gas Outlander in Canada?",
+    "choices": [
+      "1.5L turbo with a 48-volt mild hybrid, 174 hp and 206 lb-ft, CVT",
+      "2.5L naturally aspirated four-cylinder, 181 hp",
+      "2.4L plug-in hybrid, 72 km of electric range",
+      "2.0L four-cylinder, 148 hp, front-wheel drive"
+    ],
+    "answer": 0,
+    "explanation": "The 2025 naturally aspirated 2.5L is gone. The 2026 gas Outlander uses a 1.5L turbo plus a 48-volt belt starter-generator, rated 174 hp at 5,000 rpm and 206 lb-ft from 3,000 to 4,000 rpm, with a CVT. The 2.4L plug-in is the PHEV. The 2.0L is an RVR ES.",
+    "rev": 1
+  },
+  {
+    "id": "ol-fuel",
+    "vehicle": "Outlander",
+    "category": "specs",
+    "skill": "product",
+    "bucket": 0,
+    "prompt": "NRCan combined fuel consumption for the 2026 gas Outlander is:",
+    "choices": [
+      "5.5 L/100 km",
+      "8.7 L/100 km",
+      "3.2 L/100 km",
+      "6.2 L/100 km"
+    ],
+    "answer": 1,
+    "explanation": "The brochure rating is 9.4 city, 7.8 highway, 8.7 combined. 5.5 is rival-hybrid territory. 3.2 Le/100 km is the PHEV equivalent rating. 6.2 is the old Mirage. Quote 8.7, and say real-world use moves with winter, roof boxes and right feet.",
+    "rev": 1
+  },
+  {
+    "id": "ol-seats",
+    "vehicle": "Outlander",
+    "category": "specs",
+    "skill": "product",
+    "bucket": 0,
+    "prompt": "How many people does a 2026 Outlander seat?",
+    "choices": [
+      "Five, like a RAV4",
+      "Six in most trims",
+      "Seven, in a 5+2 layout",
+      "Eight with the optional bench"
+    ],
+    "answer": 2,
+    "explanation": "Seven passengers, 5+2, standard. The third row is for kids and short hops. Second-row legroom is the adult row. Sell the seat you actually have.",
+    "rev": 1
+  },
+  {
+    "id": "ol-third",
+    "vehicle": "Outlander",
+    "category": "specs",
+    "skill": "trust",
+    "bucket": 1,
+    "prompt": "A grandparent asks if the third row is comfortable for a drive to Whistler. The honest answer is:",
+    "choices": [
+      "Yes, it is a full-size third row, same as a Pilot",
+      "Third-row legroom is about 475 mm, or 18.7 inches. Kids and short trips, yes. Adults to Whistler, fold it and use the cargo",
+      "Nobody should ever sit back there",
+      "Only the PHEV has a third row"
+    ],
+    "answer": 1,
+    "explanation": "Brochure figure is 475 mm of third-row legroom. Overselling it is how you get the vehicle back on Monday. Both gas and PHEV Outlanders seat seven.",
+    "rev": 1
+  },
+  {
+    "id": "ol-cargo",
+    "vehicle": "Outlander",
+    "category": "specs",
+    "skill": "product",
+    "bucket": 2,
+    "prompt": "Cargo volume behind the third row of a 2026 Outlander is:",
+    "choices": [
+      "308 litres",
+      "866 litres",
+      "1,822 litres",
+      "64 litres"
+    ],
+    "answer": 0,
+    "explanation": "308 L behind the third row, 866 L behind the second, 1,822 L behind the fronts. 308 L is a couple of grocery bags, not a stroller plus luggage. Fold the third row before you promise the hockey-bag story.",
+    "rev": 1
+  },
+  {
+    "id": "ol-tow",
+    "vehicle": "Outlander",
+    "category": "specs",
+    "skill": "trust",
+    "bucket": 3,
+    "prompt": "A customer wants to tow a small utility trailer with a gas Outlander. The published capacity is:",
+    "choices": [
+      "Up to 907 kg (2,000 lb)",
+      "Up to 2,268 kg (5,000 lb)",
+      "Towing is not allowed",
+      "3,500 kg when equipped with the tow package"
+    ],
+    "answer": 0,
+    "explanation": "Up to 907 kg, and it varies by configuration. Do not invent a tow package that makes it a half-ton. Read the owner's manual limits with them if the trailer is close.",
+    "rev": 1
+  },
+  {
+    "id": "ol-airbags",
+    "vehicle": "Outlander",
+    "category": "specs",
+    "skill": "product",
+    "bucket": 0,
+    "prompt": "How many airbags are standard on a 2026 Outlander?",
+    "choices": [
+      "6",
+      "7",
+      "11",
+      "14"
+    ],
+    "answer": 2,
+    "explanation": "Eleven airbags are standard from ES. Eclipse Cross and RVR are specified with 7. Do not recycle one airbag count across the lineup.",
+    "rev": 1
+  },
+  {
+    "id": "ol-screen",
+    "vehicle": "Outlander",
+    "category": "features",
+    "skill": "benefit",
+    "bucket": 4,
+    "prompt": "The centre screen on a 2026 Outlander ES is:",
+    "choices": [
+      "8-inch, wired CarPlay only",
+      "12.3-inch smartphone-link display with wireless Apple CarPlay and Android Auto",
+      "10.8-inch head-up display",
+      "No screen until LE"
+    ],
+    "answer": 1,
+    "explanation": "12.3 inches and wireless projection are ES equipment, plus the 8-speaker Yamaha. The HUD is GT. Lead with the phone they already own, then shut up and let them connect it.",
+    "rev": 1
+  },
+  {
+    "id": "war-basic",
+    "vehicle": "Lineup",
+    "category": "warranty",
+    "skill": "product",
+    "bucket": 0,
+    "prompt": "Mitsubishi Canada's new-vehicle limited warranty is:",
+    "choices": [
+      "3 years / 60,000 km",
+      "5 years / 100,000 km",
+      "10 years / 160,000 km",
+      "7 years / unlimited km"
+    ],
+    "answer": 1,
+    "explanation": "New-vehicle coverage is 5 years or 100,000 km, whichever comes first. The 10-year / 160,000 km promise is the powertrain warranty, not the whole vehicle. Say both numbers so a Hyundai shopper cannot catch you blending them.",
+    "rev": 1
+  },
+  {
+    "id": "war-pt",
+    "vehicle": "Lineup",
+    "category": "warranty",
+    "skill": "product",
+    "bucket": 0,
+    "prompt": "The powertrain limited warranty on a new Mitsubishi in Canada is:",
+    "choices": [
+      "5 years / 100,000 km",
+      "8 years / 130,000 km",
+      "10 years / 160,000 km",
+      "3 years / unlimited km"
+    ],
+    "answer": 2,
+    "explanation": "10 years or 160,000 km, whichever comes first. Maintenance is not included. This is the number that beats Toyota, Honda and Nissan powertrain coverage, which is 5 years / 100,000 km. Confirm any rival booklet if they push.",
+    "rev": 1
+  },
+  {
+    "id": "war-road",
+    "vehicle": "Lineup",
+    "category": "warranty",
+    "skill": "product",
+    "bucket": 0,
+    "prompt": "Roadside assistance on a new Mitsubishi in Canada is:",
+    "choices": [
+      "3 years / 60,000 km",
+      "5 years / unlimited kilometres",
+      "10 years / 160,000 km",
+      "1 year, then they pay"
+    ],
+    "answer": 1,
+    "explanation": "5 years of roadside assistance with unlimited kilometres. It is not the same as the 10-year powertrain warranty. Families hear \"unlimited\" and relax. Use the right label.",
+    "rev": 1
+  },
+  {
+    "id": "war-battery",
+    "vehicle": "Outlander PHEV",
+    "category": "warranty",
+    "skill": "phev",
+    "bucket": 0,
+    "prompt": "The lithium-ion battery warranty on the Outlander PHEV is:",
+    "choices": [
+      "5 years / 100,000 km",
+      "8 years / 160,000 km",
+      "10 years / 160,000 km",
+      "3 years / 60,000 km"
+    ],
+    "answer": 2,
+    "explanation": "PHEV and EV batteries are covered 10 years or 160,000 km, whichever comes first, under the battery limited warranty. That is the sentence that answers \"the battery will cost me $20,000\". Do not promise zero degradation.",
+    "rev": 1
+  },
+  {
+    "id": "war-which",
+    "vehicle": "Lineup",
+    "category": "warranty",
+    "skill": "trust",
+    "bucket": 0,
+    "prompt": "A customer says \"everything is 10 years, right?\" You say:",
+    "choices": [
+      "Yes, bumper to bumper, ten years",
+      "The powertrain is 10 years / 160,000 km. The vehicle warranty and roadside are 5 years. Whichever comes first, and maintenance is separate",
+      "Warranty is whatever the other store offered",
+      "Only the PHEV has a warranty"
+    ],
+    "answer": 1,
+    "explanation": "Blending the two warranties is the fastest way to lose a detail-oriented buyer. Write the two numbers on the worksheet if you have to.",
+    "rev": 1
+  },
+  {
+    "id": "phev-range",
+    "vehicle": "Outlander PHEV",
+    "category": "specs",
+    "skill": "phev",
+    "bucket": 0,
+    "prompt": "NRCan all-electric range for the 2026 Outlander PHEV is:",
+    "choices": [
+      "61 km",
+      "72 km",
+      "120 km",
+      "690 km"
+    ],
+    "answer": 1,
+    "explanation": "72 km electric, up from 61 km on the previous pack. 690 km is the combined gas-plus-electric range, not the electric range. Winter, speed and heat will cut the 72. Say that before they do.",
+    "rev": 1
+  },
+  {
+    "id": "phev-battery",
+    "vehicle": "Outlander PHEV",
+    "category": "specs",
+    "skill": "phev",
+    "bucket": 0,
+    "prompt": "The 2026 Outlander PHEV drive battery is:",
+    "choices": [
+      "20 kWh",
+      "22.7 kWh lithium-ion",
+      "64 kWh",
+      "1.5 kWh mild-hybrid"
+    ],
+    "answer": 1,
+    "explanation": "22.7 kWh, up from 20 kWh. The tiny pack is the gas Outlander's 48-volt system, a completely different product. Do not call the gas Outlander a plug-in.",
+    "rev": 1
+  },
+  {
+    "id": "phev-hp",
+    "vehicle": "Outlander PHEV",
+    "category": "specs",
+    "skill": "phev",
+    "bucket": 0,
+    "prompt": "Total system output claimed for the 2026 Outlander PHEV is:",
+    "choices": [
+      "131 hp",
+      "174 hp",
+      "248 hp from the gas engine",
+      "297 hp"
+    ],
+    "answer": 3,
+    "explanation": "Mitsubishi Canada's 2026 media material rates total system output at 297 hp. The 2.4L engine itself is 131 hp. The gas Outlander is 174 hp. Do not quote the engine number as the system number.",
+    "rev": 1
+  },
+  {
+    "id": "phev-le",
+    "vehicle": "Outlander PHEV",
+    "category": "specs",
+    "skill": "phev",
+    "bucket": 1,
+    "prompt": "The 2026 Outlander PHEV combined rating of 3.2 means:",
+    "choices": [
+      "It burns 3.2 litres of gasoline per 100 km even with an empty battery",
+      "3.2 Le/100 km, a gasoline-equivalent rating. Gas-only operation is rated 8.6 L/100 km",
+      "3.2 litres per kilometre",
+      "It cannot use gasoline"
+    ],
+    "answer": 1,
+    "explanation": "Le/100 km folds electricity into a gas-equivalent number. If you sell 3.2 as pump litres, the first road trip ruins you. Gas-only is 8.6 L/100 km city and highway in the 2026 release.",
+    "rev": 1
+  },
+  {
+    "id": "phev-total-range",
+    "vehicle": "Outlander PHEV",
+    "category": "specs",
+    "skill": "phev",
+    "bucket": 2,
+    "prompt": "Combined driving range for the 2026 Outlander PHEV is about:",
+    "choices": [
+      "72 km",
+      "400 km",
+      "690 km",
+      "1,000 km"
+    ],
+    "answer": 2,
+    "explanation": "About 690 km gas plus electric. 72 km is electric only. The tank was trimmed slightly versus the prior year to fit the larger battery, which is why the combined number barely moved.",
+    "rev": 1
+  },
+  {
+    "id": "phev-charge-l1",
+    "vehicle": "Outlander PHEV",
+    "category": "specs",
+    "skill": "phev",
+    "bucket": 0,
+    "prompt": "From empty, a 2026 Outlander PHEV on a household 120-volt, 12-amp outlet takes about:",
+    "choices": [
+      "29 minutes",
+      "2 hours",
+      "6.5 hours",
+      "16.5 hours"
+    ],
+    "answer": 3,
+    "explanation": "Level 1 is about 16.5 hours. Most commuters are not plugging in from empty every night. Ask how far they drive and where the car sleeps before you promise \"it charges overnight\" as a blanket.",
+    "rev": 1
+  },
+  {
+    "id": "phev-charge-l2",
+    "vehicle": "Outlander PHEV",
+    "category": "specs",
+    "skill": "phev",
+    "bucket": 0,
+    "prompt": "Charge time on a 240-volt, 15-amp EVSE is about:",
+    "choices": [
+      "29 minutes to full",
+      "6.5 hours",
+      "16.5 hours",
+      "45 minutes on any home dryer outlet, no electrician"
+    ],
+    "answer": 1,
+    "explanation": "About 6.5 hours on 240V / 15A. Do not tell a condo buyer they can share a dryer outlet. Charging hardware and strata approval are their project, not a feature you can throw in.",
+    "rev": 1
+  },
+  {
+    "id": "phev-dc",
+    "vehicle": "Outlander PHEV",
+    "category": "specs",
+    "skill": "phev",
+    "bucket": 0,
+    "prompt": "DC quick charging on the 2026 Outlander PHEV is:",
+    "choices": [
+      "Not available in Canada",
+      "A CCS port standard, 10 minutes to full",
+      "CHAdeMO, about 29 minutes to roughly 80 percent",
+      "Tesla NACS only"
+    ],
+    "answer": 2,
+    "explanation": "The quick-charge port is CHAdeMO, about 29 minutes to 80 percent. It is not a 10-minute full charge, and it is not CCS. The ES equipment list includes the DC quick-charge port.",
+    "rev": 1
+  },
+  {
+    "id": "phev-pedal",
+    "vehicle": "Outlander PHEV",
+    "category": "specs",
+    "skill": "trust",
+    "bucket": 0,
+    "prompt": "Innovative Pedal means:",
+    "choices": [
+      "The brake pedal can be removed",
+      "Near one-pedal driving. You still use the brake to come to a complete stop",
+      "The car drives itself in traffic",
+      "A mode that only works on the highway"
+    ],
+    "answer": 1,
+    "explanation": "The owner's handbook is explicit: regenerative and friction braking slow the vehicle, and the brake pedal is still required for a full stop. Demo it in the lot, then say that sentence.",
+    "rev": 1
+  },
+  {
+    "id": "phev-modes",
+    "vehicle": "Outlander PHEV",
+    "category": "specs",
+    "skill": "phev",
+    "bucket": 3,
+    "prompt": "Which set is the 2026 Outlander PHEV S-AWC drive-mode list?",
+    "choices": [
+      "Eco, Normal, Tarmac, Snow, Mud, Gravel, Power",
+      "2WD, 4WD Auto, 4WD Lock",
+      "Normal, Snow, Gravel only",
+      "Sport and Eco only"
+    ],
+    "answer": 0,
+    "explanation": "Seven modes: Eco, Normal, Tarmac, Snow, Mud, Gravel and Power. 2WD / 4WD Auto / 4WD Lock is the RVR's AWC. Normal / Snow / Gravel is the Eclipse Cross.",
+    "rev": 1
+  },
+  {
+    "id": "phev-ev-save",
+    "vehicle": "Outlander PHEV",
+    "category": "specs",
+    "skill": "phev",
+    "bucket": 4,
+    "prompt": "Battery Save mode does what?",
+    "choices": [
+      "Turns the gasoline engine off permanently",
+      "Holds the current battery level and leans on the engine, so you can keep charge for later",
+      "Fast-charges the car from a wall socket while driving",
+      "Voids the battery warranty"
+    ],
+    "answer": 1,
+    "explanation": "Save holds the state of charge for a later EV stretch, like a Whistler village or a downtown parkade. Charge mode uses the engine to fill the battery. EV mode is electric drive. Teach the three on the test drive, not in a monologue at the desk.",
+    "rev": 1
+  },
+  {
+    "id": "phev-series",
+    "vehicle": "Outlander PHEV",
+    "category": "specs",
+    "skill": "phev",
+    "bucket": 1,
+    "prompt": "A customer says the gas engine never comes on if they plug in. You say:",
+    "choices": [
+      "Correct, it is an EV with a fake engine",
+      "It prefers EV mode, and it will still start the engine for heat, hard acceleration, a low battery, or series and parallel hybrid driving",
+      "The engine runs the whole time, the battery is just for show",
+      "The engine only runs in Sport mode, which this vehicle does not have"
+    ],
+    "answer": 1,
+    "explanation": "It is a series-parallel plug-in. EV mode is real. So is the engine. Honest beats magical. Ask what their coldest morning commute looks like.",
+    "rev": 1
+  },
+  {
+    "id": "phev-price-es",
+    "vehicle": "Outlander PHEV",
+    "category": "pricing",
+    "skill": "product",
+    "bucket": 2,
+    "prompt": "MSRP for the 2026 Outlander PHEV ES S-AWC is:",
+    "choices": [
+      "$36,398",
+      "$46,998",
+      "$52,598",
+      "$60,598"
+    ],
+    "answer": 1,
+    "explanation": "PHEV ES is $46,998 on mitsubishi-motors.ca. Gas ES is $36,398. PHEV SE is $52,598 and PHEV GT is $60,598. Freight, PDI and taxes are extra. Rebate eligibility is a separate question.",
+    "rev": 1
+  },
+  {
+    "id": "phev-price-noir",
+    "vehicle": "Outlander PHEV",
+    "category": "pricing",
+    "skill": "product",
+    "bucket": 3,
+    "prompt": "The 2026 Outlander PHEV GT Noir S-AWC MSRP is:",
+    "choices": [
+      "$49,748",
+      "$60,598",
+      "$61,698",
+      "$63,048"
+    ],
+    "answer": 3,
+    "explanation": "GT Noir PHEV is $63,048. GT is $60,598 and GT Premium is $61,698. The gas Noir at $49,748 is not this vehicle.",
+    "rev": 1
+  },
+  {
+    "id": "phev-es-kit",
+    "vehicle": "Outlander PHEV",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 4,
+    "prompt": "Which equipment is already on the 2026 PHEV ES, unlike the gas ES?",
+    "choices": [
+      "Innovative Pedal, DC quick charge, adaptive cruise, 12.3-inch digital cluster and 8-way power front seats",
+      "Head-up display and 12-speaker audio",
+      "Front seat massage",
+      "Nothing. The PHEV ES is a blank base"
+    ],
+    "answer": 0,
+    "explanation": "PHEV ES is well equipped: regen paddles, Innovative Pedal, S-AWC, DC quick charge, adaptive cruise, seven seats, power fronts, 12.3-inch centre screen, Yamaha 8-speaker and a 12.3-inch digital cluster. Massage is GT Premium / GT Noir. HUD is GT.",
+    "rev": 1
+  },
+  {
+    "id": "phev-massage",
+    "vehicle": "Outlander PHEV",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 1,
+    "prompt": "Front seat massage on the 2026 Outlander PHEV starts at:",
+    "choices": [
+      "ES",
+      "SEL",
+      "GT",
+      "GT Premium"
+    ],
+    "answer": 3,
+    "explanation": "Massage is a GT Premium and GT Noir feature, with the semi-aniline seats and the digital rearview mirror. Do not promise it on a GT.",
+    "rev": 1
+  },
+  {
+    "id": "phev-rebate",
+    "vehicle": "Outlander PHEV",
+    "category": "pricing",
+    "skill": "finance",
+    "bucket": 0,
+    "prompt": "The website mentions a federal EV rebate. On the floor you:",
+    "choices": [
+      "Promise $2,500 off every PHEV tonight",
+      "Confirm the current program, the trim, and that this customer qualifies before a dollar enters the quote",
+      "Tell them rebates ended in 2024 and will never return",
+      "Add the rebate on top of employee pricing without asking the desk"
+    ],
+    "answer": 1,
+    "explanation": "Programs move. The ES has been the trim called out for the EV Affordability Program, and the site says eligible customers. You are not the statute. The desk confirms today's eligibility, then you quote.",
+    "rev": 1
+  },
+  {
+    "id": "phev-winter",
+    "vehicle": "Outlander PHEV",
+    "category": "specs",
+    "skill": "phev",
+    "bucket": 0,
+    "prompt": "They ask if 72 km is guaranteed on a January morning in Port Coquitlam. You say:",
+    "choices": [
+      "Yes, NRCan tests in Canadian winter",
+      "72 km is the NRCan rating. Cold, speed and cabin heat cut it. The engine covers the rest, which is why we size the car to their worst day",
+      "Electric range doubles in the cold",
+      "It will not move below zero"
+    ],
+    "answer": 1,
+    "explanation": "Honesty keeps the PHEV sold after the first cold week. Ask where they park and how far the Wednesday commute is, not the Sunday average.",
+    "rev": 1
+  },
+  {
+    "id": "ec-fcm",
+    "vehicle": "Eclipse Cross",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 2,
+    "prompt": "On the 2026 Eclipse Cross, Forward Collision Mitigation first shows up on which trim?",
+    "choices": [
+      "ES S-AWC",
+      "SE S-AWC",
+      "Noir S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 0,
+    "explanation": "FCM is standard on Eclipse Cross ES, along with 7 airbags, 18-inch alloys, heated fronts and rain-sensing wipers. Do not confuse this with the RVR, where FCM is a GT item.",
+    "rev": 1
+  },
+  {
+    "id": "ec-bsw",
+    "vehicle": "Eclipse Cross",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 3,
+    "prompt": "On the 2026 Eclipse Cross, blind spot warning and rear cross traffic alert first shows up on which trim?",
+    "choices": [
+      "ES S-AWC",
+      "SE S-AWC",
+      "Noir S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 1,
+    "explanation": "BSW and RCTA arrive at SE, with LED fogs, dual-zone climate, FAST-Key, heated wheel and the hands-free liftgate.",
+    "rev": 1
+  },
+  {
+    "id": "ec-acc",
+    "vehicle": "Eclipse Cross",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 4,
+    "prompt": "On the 2026 Eclipse Cross, adaptive cruise first shows up on which trim?",
+    "choices": [
+      "ES S-AWC",
+      "SE S-AWC",
+      "Noir S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 2,
+    "explanation": "Adaptive cruise is listed on Noir, with the 360 camera, HUD, heated second row and 6-way power driver seat. The GT walk is published as SE equipment plus the roof, leather and remote starter. Read the GT sticker before you promise ACC on it.",
+    "rev": 1
+  },
+  {
+    "id": "ec-hud",
+    "vehicle": "Eclipse Cross",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 1,
+    "prompt": "On the 2026 Eclipse Cross, a head-up display first shows up on which trim?",
+    "choices": [
+      "ES S-AWC",
+      "SE S-AWC",
+      "Noir S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 2,
+    "explanation": "The HUD is listed on the Eclipse Cross Noir. If they also want the GT sunroof and leather, confirm the actual unit instead of assuming one trim contains both stories.",
+    "rev": 1
+  },
+  {
+    "id": "ec-roof",
+    "vehicle": "Eclipse Cross",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 2,
+    "prompt": "On the 2026 Eclipse Cross, a power panoramic sunroof first shows up on which trim?",
+    "choices": [
+      "ES S-AWC",
+      "SE S-AWC",
+      "Noir S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 3,
+    "explanation": "The power panoramic roof with dual sunshades is GT. Noir has the tech look. GT has the roof, leather, remote starter and the 8-speaker power sound system.",
+    "rev": 1
+  },
+  {
+    "id": "ec-leather",
+    "vehicle": "Eclipse Cross",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 3,
+    "prompt": "On the 2026 Eclipse Cross, leather-appointed seats first shows up on which trim?",
+    "choices": [
+      "ES S-AWC",
+      "SE S-AWC",
+      "Noir S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 3,
+    "explanation": "Leather-appointed seating is GT. Noir is microsuede. If the brief is \"black wheels and leather\", you may be mixing two trims. Say so and let them choose.",
+    "rev": 1
+  },
+  {
+    "id": "ec-remote",
+    "vehicle": "Eclipse Cross",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 4,
+    "prompt": "On the 2026 Eclipse Cross, a remote starter first shows up on which trim?",
+    "choices": [
+      "ES S-AWC",
+      "SE S-AWC",
+      "Noir S-AWC",
+      "GT S-AWC"
+    ],
+    "answer": 3,
+    "explanation": "Remote starter is listed on the GT. It is a January feature in this city. Do not throw it in verbally on an ES.",
+    "rev": 1
+  },
+  {
+    "id": "ec-engine",
+    "vehicle": "Eclipse Cross",
+    "category": "specs",
+    "skill": "product",
+    "bucket": 0,
+    "prompt": "The 2026 Eclipse Cross powertrain is:",
+    "choices": [
+      "1.5L turbo, 152 hp and 184 lb-ft, CVT, S-AWC on every trim",
+      "2.0L, 148 hp, front-wheel drive on every trim",
+      "2.4L plug-in, 72 km electric",
+      "1.2L three-cylinder, 78 hp"
+    ],
+    "answer": 0,
+    "explanation": "One engine for the whole Eclipse Cross lineup: 1.5L direct-injection turbo, 152 hp, 184 lb-ft available from 2,000 rpm, CVT, and S-AWC standard. That low-rpm torque is the merge onto Highway 1.",
+    "rev": 1
+  },
+  {
+    "id": "ec-fuel",
+    "vehicle": "Eclipse Cross",
+    "category": "specs",
+    "skill": "product",
+    "bucket": 1,
+    "prompt": "NRCan fuel rating for the 2026 Eclipse Cross is:",
+    "choices": [
+      "9.6 city / 8.9 highway / 9.3 combined",
+      "6.6 / 5.6 / 6.2",
+      "9.4 / 7.8 / 8.7",
+      "3.2 Le/100 km"
+    ],
+    "answer": 0,
+    "explanation": "9.6 / 8.9 / 9.3. The 8.7 combined figure is the gas Outlander. 6.2 is the Mirage. 3.2 is the PHEV equivalent rating.",
+    "rev": 1
+  },
+  {
+    "id": "ec-modes",
+    "vehicle": "Eclipse Cross",
+    "category": "specs",
+    "skill": "product",
+    "bucket": 2,
+    "prompt": "Eclipse Cross S-AWC drive modes are:",
+    "choices": [
+      "Normal, Snow and Gravel",
+      "Eco, Tarmac, Mud and Power",
+      "2WD, 4WD Auto, 4WD Lock",
+      "EV, Save and Charge"
+    ],
+    "answer": 0,
+    "explanation": "The 2026 brochure lists three: Normal, Snow and Gravel. Do not borrow the PHEV's seven-mode list or the RVR's 4WD Lock.",
+    "rev": 1
+  },
+  {
+    "id": "ec-seats",
+    "vehicle": "Eclipse Cross",
+    "category": "specs",
+    "skill": "trust",
+    "bucket": 3,
+    "prompt": "A couple with three kids asks if the Eclipse Cross has a third row. You say:",
+    "choices": [
+      "Yes, all Mitsubishi SUVs seat seven",
+      "No. Eclipse Cross is a five-seat compact. The seven-seat answer is Outlander",
+      "Only the GT has a third row",
+      "We can add a jump seat"
+    ],
+    "answer": 1,
+    "explanation": "Five seats. If they need seven, change vehicles instead of changing the subject. The walk to the Outlander is the product knowledge.",
+    "rev": 1
+  },
+  {
+    "id": "ec-price-es",
+    "vehicle": "Eclipse Cross",
+    "category": "pricing",
+    "skill": "product",
+    "bucket": 4,
+    "prompt": "2026 Eclipse Cross ES S-AWC MSRP is:",
+    "choices": [
+      "$24,998",
+      "$29,798",
+      "$33,298",
+      "$38,898"
+    ],
+    "answer": 1,
+    "explanation": "ES is $29,798. SE is $33,298. Noir is $36,898. GT is $38,898. $24,998 is the RVR ES FWD. Do not let a price-ad shopper blend the two.",
+    "rev": 1
+  },
+  {
+    "id": "ec-price-gt",
+    "vehicle": "Eclipse Cross",
+    "category": "pricing",
+    "skill": "product",
+    "bucket": 1,
+    "prompt": "2026 Eclipse Cross GT S-AWC MSRP is:",
+    "choices": [
+      "$33,298",
+      "$36,898",
+      "$38,898",
+      "$42,198"
+    ],
+    "answer": 2,
+    "explanation": "GT is $38,898. Noir is $36,898, which can be higher-equipped on tech and lower on luxury. Explain the split before they assume GT means \"everything\".",
+    "rev": 1
+  },
+  {
+    "id": "ec-vs-rvr",
+    "vehicle": "Eclipse Cross",
+    "category": "competitor",
+    "skill": "benefit",
+    "bucket": 2,
+    "prompt": "A shopper says the Eclipse Cross and the RVR are the same SUV with different faces. Your best correction is:",
+    "choices": [
+      "You are right, pick a colour",
+      "Different size, different engine, different all-wheel system. Eclipse Cross is turbo S-AWC on every trim. RVR offers 2.0L or 2.4L and AWC, and the ES can be front-wheel drive",
+      "The RVR is the fast one",
+      "Only the price is different"
+    ],
+    "answer": 1,
+    "explanation": "They are not twins. Eclipse Cross: 1.5T, S-AWC standard, five-seat compact. RVR: 2.0L on the ES trims, 2.4L on NOIR and GT, AWC with a lock mode, and a lower entry price. Ask what they actually drive.",
+    "rev": 1
+  },
+  {
+    "id": "rvr-not-sawc",
+    "vehicle": "RVR",
+    "category": "specs",
+    "skill": "trust",
+    "bucket": 0,
+    "prompt": "A customer says \"the RVR has S-AWC like the Outlander.\" You say:",
+    "choices": [
+      "Yes, same system, same button",
+      "The RVR uses All-Wheel Control with 2WD, 4WD Auto and 4WD Lock. S-AWC is the Eclipse Cross and Outlander system",
+      "Only the RVR GT has S-AWC",
+      "S-AWC was cancelled"
+    ],
+    "answer": 1,
+    "explanation": "AWC is real and useful, especially 4WD Lock on a slushy on-ramp. It is not S-AWC. Using the wrong name is how a forum post beats you later.",
+    "rev": 1
+  },
+  {
+    "id": "rvr-es-engine",
+    "vehicle": "RVR",
+    "category": "specs",
+    "skill": "product",
+    "bucket": 3,
+    "prompt": "The 2026 RVR ES FWD and ES AWC use which engine?",
+    "choices": [
+      "1.5L turbo",
+      "2.0L, 148 hp and 145 lb-ft",
+      "2.4L, 168 hp",
+      "1.2L, 78 hp"
+    ],
+    "answer": 1,
+    "explanation": "ES trims are the 2.0L, rated 148 hp and 145 lb-ft in the published specs, with a CVT. NOIR and GT step up to the 2.4L rated 168 hp and 167 lb-ft. Do not quote 168 hp on an ES.",
+    "rev": 1
+  },
+  {
+    "id": "rvr-gt-engine",
+    "vehicle": "RVR",
+    "category": "specs",
+    "skill": "product",
+    "bucket": 4,
+    "prompt": "The 2026 RVR NOIR and GT use which engine?",
+    "choices": [
+      "2.0L, 148 hp",
+      "2.4L, 168 hp and 167 lb-ft",
+      "1.5L turbo, 174 hp",
+      "2.4L plug-in"
+    ],
+    "answer": 1,
+    "explanation": "The 2026 RVR brochure rates NOIR and GT on the 2.4L at 10.3 / 8.3 / 9.4 L/100 km. That is the 168 hp engine. It is still not a turbo, and it is still not S-AWC.",
+    "rev": 1
+  },
+  {
+    "id": "rvr-fuel-fwd",
+    "vehicle": "RVR",
+    "category": "specs",
+    "skill": "product",
+    "bucket": 1,
+    "prompt": "NRCan rating for the 2026 RVR ES FWD 2.0L is:",
+    "choices": [
+      "9.7 city / 7.8 highway / 8.8 combined",
+      "6.2 combined",
+      "8.7 combined",
+      "3.2 Le/100 km"
+    ],
+    "answer": 0,
+    "explanation": "9.7 / 7.8 / 8.8 for ES FWD. ES AWC is thirstier, 10.1 / 8.2 / 9.2. If they want the lowest number in the RVR family, that is the front-wheel-drive ES, and you should ask whether they actually want AWC for the rain.",
+    "rev": 1
+  },
+  {
+    "id": "rvr-price-es",
+    "vehicle": "RVR",
+    "category": "pricing",
+    "skill": "product",
+    "bucket": 2,
+    "prompt": "The 2026 RVR ES FWD MSRP starts at:",
+    "choices": [
+      "$16,998",
+      "$24,998",
+      "$26,998",
+      "$29,798"
+    ],
+    "answer": 1,
+    "explanation": "ES FWD is $24,998. ES AWC is $26,998. Eclipse Cross ES is $29,798. $16,998 was the 2024 Mirage ES, which is not a current order.",
+    "rev": 1
+  },
+  {
+    "id": "rvr-price-awc",
+    "vehicle": "RVR",
+    "category": "pricing",
+    "skill": "product",
+    "bucket": 3,
+    "prompt": "Stepping a 2026 RVR ES from FWD to AWC is an MSRP move from $24,998 to:",
+    "choices": [
+      "$25,498",
+      "$26,998",
+      "$28,998",
+      "$31,498"
+    ],
+    "answer": 1,
+    "explanation": "ES AWC is $26,998. SE AWC is $28,998. SEL AWC is $31,498. Two thousand dollars is the drivetrain conversation, then you ask how they drive in December.",
+    "rev": 1
+  },
+  {
+    "id": "rvr-price-gt",
+    "vehicle": "RVR",
+    "category": "pricing",
+    "skill": "product",
+    "bucket": 4,
+    "prompt": "2026 RVR GT AWC MSRP is:",
+    "choices": [
+      "$32,998",
+      "$35,998",
+      "$38,898",
+      "$42,198"
+    ],
+    "answer": 1,
+    "explanation": "GT AWC is $35,998. NOIR AWC is $32,998. The GT is the one with leather, HomeLink, and the 710-watt Rockford Fosgate system with 9 speakers.",
+    "rev": 1
+  },
+  {
+    "id": "rvr-audio",
+    "vehicle": "RVR",
+    "category": "features",
+    "skill": "product",
+    "bucket": 1,
+    "prompt": "The premium audio on a 2026 RVR GT is:",
+    "choices": [
+      "Yamaha Ultimate, 12 speakers",
+      "Rockford Fosgate, 710 watts, 9 speakers plus a subwoofer",
+      "The same 8-speaker system as the ES",
+      "No audio package exists"
+    ],
+    "answer": 1,
+    "explanation": "Rockford Fosgate, 710 watts, 9 speakers, on the GT. Yamaha is the Outlander. Mixing the brands makes you sound like you have never sat in the car.",
+    "rev": 1
+  },
+  {
+    "id": "rvr-screen",
+    "vehicle": "RVR",
+    "category": "features",
+    "skill": "product",
+    "bucket": 2,
+    "prompt": "The RVR ES screen is:",
+    "choices": [
+      "12.3-inch",
+      "10.8-inch HUD",
+      "8-inch smartphone-link display with Apple CarPlay and Android Auto",
+      "No screen"
+    ],
+    "answer": 2,
+    "explanation": "8 inches on the RVR, with phone projection and a SiriusXM trial. The 12.3-inch screen is the Outlander. Sell the phone connection, not a screen size you do not have.",
+    "rev": 1
+  },
+  {
+    "id": "rvr-fcm",
+    "vehicle": "RVR",
+    "category": "trims",
+    "skill": "trust",
+    "bucket": 3,
+    "prompt": "On the 2026 RVR, Forward Collision Mitigation and Lane Departure Warning are listed on:",
+    "choices": [
+      "Every trim",
+      "ES only",
+      "GT",
+      "They were deleted from the lineup"
+    ],
+    "answer": 2,
+    "explanation": "The GT equipment list is where FCM and LDW appear, along with leather and the Rockford system. Eclipse Cross includes FCM from ES. Do not borrow the Eclipse Cross safety list for a base RVR.",
+    "rev": 1
+  },
+  {
+    "id": "rvr-heated",
+    "vehicle": "RVR",
+    "category": "features",
+    "skill": "benefit",
+    "bucket": 4,
+    "prompt": "Heated front seats on the RVR are:",
+    "choices": [
+      "GT only",
+      "Standard on ES",
+      "Not available",
+      "PHEV only"
+    ],
+    "answer": 1,
+    "explanation": "Heated fronts are on the ES list, with automatic climate and the 8-inch screen. That is a real base-trim benefit against a stripper rival. Mention it after you know they feel the cold, not before.",
+    "rev": 1
+  },
+  {
+    "id": "rvr-noir",
+    "vehicle": "RVR",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 1,
+    "prompt": "The 2026 RVR Noir adds which of these versus a plain SE?",
+    "choices": [
+      "A third row",
+      "Black wheels, panoramic fixed glass, red stitch, black headliner and a Noir badge, at $32,998",
+      "S-AWC and a turbo",
+      "A plug-in battery"
+    ],
+    "answer": 1,
+    "explanation": "Noir is an appearance and roof trim, MSRP $32,998, still an RVR. It does not become an Outlander. Red stitch and a black headliner are the cabin tells.",
+    "rev": 1
+  },
+  {
+    "id": "rvr-seats",
+    "vehicle": "RVR",
+    "category": "specs",
+    "skill": "trust",
+    "bucket": 2,
+    "prompt": "Can you put seven people in a 2026 RVR?",
+    "choices": [
+      "Yes, 5+2",
+      "No. Five seats. Seven means Outlander",
+      "Only the GT",
+      "Yes if you fold the cargo cover"
+    ],
+    "answer": 1,
+    "explanation": "Five. The moment they say three kids in car seats, you are in an Outlander conversation or you are honest that two is the comfortable load.",
+    "rev": 1
+  },
+  {
+    "id": "mir-year",
+    "vehicle": "Mirage",
+    "category": "lineup",
+    "skill": "trust",
+    "bucket": 0,
+    "prompt": "A first-time buyer asks to order a new Mirage. You say:",
+    "choices": [
+      "The 2026 Mirage ES is $16,998 and I can order one",
+      "2024 was the final model year. New ones exist only while any remaining stock lasts. Certified used is the other path",
+      "It was renamed RVR",
+      "Mitsubishi cancelled the warranty on every Mirage"
+    ],
+    "answer": 1,
+    "explanation": "Mitsubishi Canada has said production ended and 2024 is the last model year. Do not take an order for a car the factory is not building. If a new 2024 is actually on the ground, sell that unit, not a phantom allocation.",
+    "rev": 1
+  },
+  {
+    "id": "mir-price",
+    "vehicle": "Mirage",
+    "category": "pricing",
+    "skill": "product",
+    "bucket": 3,
+    "prompt": "The 2024 Mirage ES CVT launched at an MSRP of:",
+    "choices": [
+      "$12,498",
+      "$16,998",
+      "$21,498",
+      "$24,998"
+    ],
+    "answer": 1,
+    "explanation": "ES CVT $16,998, Noir $18,998, GT $21,498, before freight and PDI. That was the final-year price book, not a 2026 order guide. $24,998 is today's RVR ES FWD.",
+    "rev": 1
+  },
+  {
+    "id": "mir-engine",
+    "vehicle": "Mirage",
+    "category": "specs",
+    "skill": "product",
+    "bucket": 4,
+    "prompt": "The 2024 Mirage engine is:",
+    "choices": [
+      "1.2L three-cylinder, 78 hp and 74 lb-ft, CVT, front-wheel drive",
+      "1.5L turbo, AWD",
+      "2.0L, 148 hp",
+      "A hybrid"
+    ],
+    "answer": 0,
+    "explanation": "1.2L, 78 hp, 74 lb-ft, CVT on every 2024 trim. The five-speed manual was dropped for that final year. It is front-wheel drive only. Great city commuter, not a mountain tool.",
+    "rev": 1
+  },
+  {
+    "id": "mir-fuel",
+    "vehicle": "Mirage",
+    "category": "specs",
+    "skill": "product",
+    "bucket": 1,
+    "prompt": "The 2024 Mirage combined fuel rating is:",
+    "choices": [
+      "8.8 L/100 km",
+      "6.2 L/100 km",
+      "9.3 L/100 km",
+      "3.2 Le/100 km"
+    ],
+    "answer": 1,
+    "explanation": "6.6 city, 5.6 highway, 6.2 combined, with a 35-litre tank. If someone mourns that number, the honest new-car pivot is a PHEV commute story or a frank RVR comparison, not a fake Mirage order.",
+    "rev": 1
+  },
+  {
+    "id": "mir-fcm",
+    "vehicle": "Mirage",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 2,
+    "prompt": "On the 2024 Mirage, Forward Collision Mitigation and Lane Departure Warning were:",
+    "choices": [
+      "Standard on ES",
+      "GT equipment",
+      "Not offered",
+      "Only on the manual"
+    ],
+    "answer": 1,
+    "explanation": "The features sheet lists LDW and FCM on the GT, not the ES or Noir. Same discipline as the RVR: safety equipment is a trim fact.",
+    "rev": 1
+  },
+  {
+    "id": "mir-warranty",
+    "vehicle": "Mirage",
+    "category": "warranty",
+    "skill": "trust",
+    "bucket": 3,
+    "prompt": "An owner of a 2024 Mirage asks if the warranty vanished because production ended. You say:",
+    "choices": [
+      "Yes, discontinued cars lose their warranty",
+      "No. The 5-year / 100,000 km vehicle warranty and 10-year / 160,000 km powertrain still apply under the original terms",
+      "Only the powertrain remains, for 12 months",
+      "They must buy an extended warranty this week or it is zero"
+    ],
+    "answer": 1,
+    "explanation": "End of production is not end of warranty. Cover the original terms, whichever comes first, and do not use fear to sell a product they do not need.",
+    "rev": 1
+  },
+  {
+    "id": "mir-pivot",
+    "vehicle": "Mirage",
+    "category": "lineup",
+    "skill": "discovery",
+    "bucket": 0,
+    "prompt": "They wanted a Mirage for the payment and the fuel bill. The useful next question is:",
+    "choices": [
+      "How about a used truck?",
+      "How many kilometres a day, who rides along, and do you need all-wheel drive in the rain? Then we pick a real 2026, not a memory",
+      "The Mirage is coming back next spring, wait",
+      "You should buy a Corolla and leave"
+    ],
+    "answer": 1,
+    "explanation": "Discovery first. A solo city driver and a parent who hits the Coquihalla are different vehicles. RVR ES FWD at $24,998 and the Outlander PHEV commute math are the two honest lanes.",
+    "rev": 1
+  },
+  {
+    "id": "say-rav4-fuel",
+    "vehicle": "Outlander",
+    "category": "competitor",
+    "skill": "competitor",
+    "bucket": 0,
+    "prompt": "The customer says a RAV4 Hybrid uses way less fuel. You:",
+    "choices": [
+      "Tell them the Outlander beats it on fuel",
+      "Agree. Then ask if they ever need a third row, and whether a 72 km electric commute in a PHEV would matter more than a hybrid that cannot plug in",
+      "Insult Toyota reliability",
+      "Switch them to a Mirage"
+    ],
+    "answer": 1,
+    "explanation": "The RAV4 Hybrid's economy is real. Gas Outlander is 8.7 L/100 km combined. You lose the minute you argue the pump. Seats, S-AWC, the 10-year powertrain and the PHEV are the honest weapons.",
+    "rev": 1
+  },
+  {
+    "id": "say-crv",
+    "vehicle": "Outlander",
+    "category": "competitor",
+    "skill": "competitor",
+    "bucket": 0,
+    "prompt": "Against a CR-V, the clean Outlander advantage to lead with is:",
+    "choices": [
+      "We have more horsepower than every CR-V hybrid",
+      "Seven seats standard, S-AWC standard, and a 10-year / 160,000 km powertrain versus Honda's 5-year / 100,000 km powertrain",
+      "We are always cheaper",
+      "Honda is leaving Canada"
+    ],
+    "answer": 1,
+    "explanation": "CR-V is five seats. Honda's Canadian powertrain coverage is 5 years / 100,000 km. Do not invent a fuel win against the CR-V Hybrid. Lead with the seat, the system and the warranty, then ask which of those they came in for.",
+    "rev": 1
+  },
+  {
+    "id": "say-rogue",
+    "vehicle": "Outlander",
+    "category": "competitor",
+    "skill": "competitor",
+    "bucket": 0,
+    "prompt": "A Rogue shopper likes the name. Your strongest true contrast is:",
+    "choices": [
+      "Rogue also seats seven",
+      "Outlander seats seven and includes S-AWC on every trim, with a longer powertrain warranty than Nissan's 5-year / 100,000 km coverage",
+      "Nissan dealers cannot finance",
+      "The Rogue has no airbags"
+    ],
+    "answer": 1,
+    "explanation": "Rogue is a five-seat compact. Pathfinder is their three-row, and that is a different price. Keep the comparison on the vehicle they named.",
+    "rev": 1
+  },
+  {
+    "id": "say-tucson",
+    "vehicle": "Outlander",
+    "category": "competitor",
+    "skill": "competitor",
+    "bucket": 0,
+    "prompt": "They say the Tucson has a better warranty and a plug-in hybrid too. You:",
+    "choices": [
+      "Say Hyundai has almost no warranty",
+      "Give Hyundai its 5-year / 100,000 km coverage, then separate it from a 10-year powertrain, seven seats and standard S-AWC. A Tucson plug-in still does not add a third row",
+      "Claim the Tucson is front-wheel drive only",
+      "Refuse to talk about Hyundai"
+    ],
+    "answer": 1,
+    "explanation": "Hyundai Canada's comprehensive warranty is a real 5-year / 100,000 km. Respect it. The opening is powertrain length, the third row, and S-AWC. Pretending they have no warranty makes you the person who does not know the market.",
+    "rev": 1
+  },
+  {
+    "id": "say-cx5",
+    "vehicle": "Outlander",
+    "category": "competitor",
+    "skill": "competitor",
+    "bucket": 0,
+    "prompt": "A CX-5 driver says Mazda is more fun. You:",
+    "choices": [
+      "Argue that Outlander out-handles a CX-5 on a track",
+      "Let them have the steering feel. Ask whether they need seven seats, a plug-in commute, or a 10-year powertrain Mazda does not match",
+      "Tell them Mazda is for people who cannot afford Mitsubishi",
+      "Offer a free roof rack if they stop talking"
+    ],
+    "answer": 1,
+    "explanation": "CX-5 wins some buyers on the drive. Do not fake that. Move to space, the PHEV, S-AWC and warranty. Fun is not the only reason a family signs.",
+    "rev": 1
+  },
+  {
+    "id": "say-kona",
+    "vehicle": "RVR",
+    "category": "competitor",
+    "skill": "competitor",
+    "bucket": 4,
+    "prompt": "They are cross-shopping a Hyundai Kona. You position the RVR by:",
+    "choices": [
+      "Claiming the RVR ES out-accelerates the Kona Electric",
+      "Price from $24,998, heated seats standard, available AWC with a lock mode, and the longer powertrain warranty. Ask gas versus electric before you pitch",
+      "Saying Kona has no dealers in B.C.",
+      "Quoting Outlander third-row space"
+    ],
+    "answer": 1,
+    "explanation": "Kona is the right rival for RVR and sometimes Eclipse Cross, not a seven-seat story. If they want an EV, do not pretend the RVR is one. If they want a cheap AWC commuter, the RVR has a clear price door.",
+    "rev": 1
+  },
+  {
+    "id": "say-hrv",
+    "vehicle": "RVR",
+    "category": "competitor",
+    "skill": "competitor",
+    "bucket": 1,
+    "prompt": "Against an HR-V, a fair RVR point is:",
+    "choices": [
+      "We have a third row and a turbo on the ES",
+      "A lower opening price, heated seats on ES, and AWC with 4WD Lock. Eclipse Cross is the one with standard S-AWC and turbo torque if they want that instead",
+      "Honda has no safety equipment",
+      "HR-V cannot be financed"
+    ],
+    "answer": 1,
+    "explanation": "HR-V is five seats, naturally aspirated, available AWD without a lock mode. Do not give the RVR a turbo it does not have. If they want turbo and S-AWC, walk to the Eclipse Cross.",
+    "rev": 1
+  },
+  {
+    "id": "say-cc",
+    "vehicle": "Eclipse Cross",
+    "category": "competitor",
+    "skill": "competitor",
+    "bucket": 2,
+    "prompt": "A Corolla Cross Hybrid shopper leads with fuel. You:",
+    "choices": [
+      "Claim Eclipse Cross uses less fuel",
+      "Agree the hybrid is thrifty. Then talk 184 lb-ft from 2,000 rpm, standard S-AWC, and a 10-year powertrain versus Toyota's 5-year / 100,000 km",
+      "Tell them Toyota dealers will not take their trade",
+      "Promise a Mirage on order"
+    ],
+    "answer": 1,
+    "explanation": "Corolla Cross Hybrid economy is the reason they walked in. Acknowledge it. Torque, standard S-AWC and the powertrain warranty are the Mitsubishi answers. The RVR is the price answer if the Eclipse Cross payment scares them.",
+    "rev": 1
+  },
+  {
+    "id": "say-value",
+    "vehicle": "Lineup",
+    "category": "competitor",
+    "skill": "objection",
+    "bucket": 0,
+    "prompt": "They say Toyota holds its value and Mitsubishi does not. Best move:",
+    "choices": [
+      "Guarantee a residual three years from now",
+      "Do not fight the reputation with a promise. Put the 10-year powertrain, the equipment they will use, and today's payment next to the Toyota quote, and let the desk show the ownership math",
+      "Say resale does not matter to anyone",
+      "Knock $3,000 off without a manager"
+    ],
+    "answer": 1,
+    "explanation": "You do not control the auction three years out. You do control an honest comparison of warranty, equipment and payment. Promising resale is how a review gets written.",
+    "rev": 1
+  },
+  {
+    "id": "say-cvt",
+    "vehicle": "Lineup",
+    "category": "objection",
+    "skill": "objection",
+    "bucket": 0,
+    "prompt": "\"I hate CVTs.\" You:",
+    "choices": [
+      "Say this one is actually an 8-speed automatic",
+      "Acknowledge the reputation, explain this one is a CVT, and offer the drive so they can judge shift feel and the paddle behaviour themselves",
+      "Tell them CVTs never fail and the warranty is pointless",
+      "Refuse the test drive until they apologize"
+    ],
+    "answer": 1,
+    "explanation": "The gas Outlander, Eclipse Cross, RVR and the final Mirage use CVTs. Lying about the gearbox is a one-way trip to a cancelled deal. The 10-year powertrain is the safety net you can actually point at, after the drive.",
+    "rev": 1
+  },
+  {
+    "id": "say-awd",
+    "vehicle": "Outlander",
+    "category": "objection",
+    "skill": "benefit",
+    "bucket": 0,
+    "prompt": "\"AWD is AWD.\" You:",
+    "choices": [
+      "Agree and change the subject to colour",
+      "Ask where they drive in weather, then show the mode that matches: Snow or Gravel on S-AWC, or 4WD Lock on an RVR. Offer the route, not a slogan",
+      "Say only Mitsubishi can drive in snow",
+      "Claim S-AWC is a locking differential on all four wheels at all times"
+    ],
+    "answer": 1,
+    "explanation": "S-AWC is a control system with selectable modes, not a magic locker and not \"the same as every AWD\". The demo is the Pitt River bridge in the rain, described honestly, or a slow cone in the lot if the sky is clear.",
+    "rev": 1
+  },
+  {
+    "id": "say-surrey",
+    "vehicle": "Lineup",
+    "category": "objection",
+    "skill": "objection",
+    "bucket": 0,
+    "prompt": "They flash a Surrey ad and say it is cheaper. Your first move is:",
+    "choices": [
+      "Match the number on the spot from your own pocket",
+      "Put the two quotes side by side: year, trim, kilometres, fees, colour, and in-stock versus incoming. If theirs is truly lower on the same car, involve the desk before they drive an hour",
+      "Tell them Surrey ads are fake and the store is untrustworthy",
+      "Tell them to go to Surrey"
+    ],
+    "answer": 1,
+    "explanation": "Price objections get solved by isolation, not by volume. Same car, same fees, then a decision. You do not have unilateral discount authority, and you do not trash another store.",
+    "rev": 1
+  },
+  {
+    "id": "say-payment",
+    "vehicle": "Lineup",
+    "category": "objection",
+    "skill": "finance",
+    "bucket": 0,
+    "prompt": "The payment is $40 over their ceiling. First lever conversation is:",
+    "choices": [
+      "Stretch the term as far as it will go and hide the total",
+      "Ask which lever they can move: down payment, term, trim, or rate. Show two options and the total cost of each",
+      "Tell them to come back when they have more money",
+      "Promise the manufacturer will cut the MSRP tonight"
+    ],
+    "answer": 1,
+    "explanation": "Payment is a structure, not a mood. Term stretches raise the total. A trim step-down might keep the feature they actually use. The desk runs the numbers. You do not invent a rate.",
+    "rev": 1
+  },
+  {
+    "id": "say-rate",
+    "vehicle": "Lineup",
+    "category": "objection",
+    "skill": "finance",
+    "bucket": 0,
+    "prompt": "They have a credit-union pre-approval and assume your rate is a markup. You:",
+    "choices": [
+      "Tell them dealer rates are always higher, so use the bank",
+      "Ask the term and the rate they were quoted. Compare honestly. If the bank wins, say so. Keep the car decision separate from the lender decision",
+      "Refuse to deliver unless they finance in the office",
+      "Add a point without telling them"
+    ],
+    "answer": 1,
+    "explanation": "A clean rate comparison builds more trust than a trapped lender. Protection products stay optional. The PHEV rebate, if any, still has to be checked against the program, not against your enthusiasm.",
+    "rev": 1
+  },
+  {
+    "id": "say-trade",
+    "vehicle": "Lineup",
+    "category": "objection",
+    "skill": "trade",
+    "bucket": 0,
+    "prompt": "They are sure you will lowball the trade. You:",
+    "choices": [
+      "Name a number off the top of your head to calm them",
+      "Explain the appraisal is a market number, ask what they need the deal to do, and do not insult the car they maintained",
+      "Say trades are a waste of time and to sell it privately or leave",
+      "Promise you will beat any number by $1,000 before you see the car"
+    ],
+    "answer": 1,
+    "explanation": "The appraisal is a process: walkaround, history, wholesale reality. A number you invent in the aisle becomes the number they remember. Respect the car. Then let the appraiser work.",
+    "rev": 1
+  },
+  {
+    "id": "say-upside",
+    "vehicle": "Lineup",
+    "category": "objection",
+    "skill": "trade",
+    "bucket": 0,
+    "prompt": "They owe more than the trade is worth. You:",
+    "choices": [
+      "Pretend the negative equity disappeared",
+      "Name it. Show how much rolls, what it does to the payment, and the option of writing a cheque so the new loan stays healthy",
+      "Tell them the bank will not notice",
+      "Refuse to speak to anyone with negative equity"
+    ],
+    "answer": 1,
+    "explanation": "Buried equity is math. Hiding it inside a long term is how people end up upside-down twice. Put the number on the paper.",
+    "rev": 1
+  },
+  {
+    "id": "say-think",
+    "vehicle": "Lineup",
+    "category": "objection",
+    "skill": "close",
+    "bucket": 0,
+    "prompt": "\"I need to think about it.\" You:",
+    "choices": [
+      "Say \"no problem\" and hand them a brochure with no next step",
+      "Agree, then ask what the open item is: payment, partner, trade, or a feature. Book the next step before they reach the door",
+      "Tell them the car will be gone in an hour no matter what, even if you have ten",
+      "Follow them to the parking lot arguing"
+    ],
+    "answer": 1,
+    "explanation": "A stall is usually one unmade decision. Isolate it. A fake scarcity line on a car you have in depth costs you the relationship. A real incoming-unit story, told accurately, is fine.",
+    "rev": 1
+  },
+  {
+    "id": "say-spouse",
+    "vehicle": "Lineup",
+    "category": "objection",
+    "skill": "close",
+    "bucket": 0,
+    "prompt": "\"My spouse has to see it.\" You:",
+    "choices": [
+      "Pressure them to sign before the spouse arrives",
+      "Treat the spouse as a real buyer. Offer a time today or tonight when both can drive it, and send the exact stock card so the conversation at home is accurate",
+      "Tell them spouses always say no, decide now",
+      "Give them a different colour to speed it up"
+    ],
+    "answer": 1,
+    "explanation": "The absent decision-maker is not an obstacle to trick. Get both of them in the vehicle. The stock number, trim and payment range you send home should match what you said on the lot.",
+    "rev": 1
+  },
+  {
+    "id": "say-email",
+    "vehicle": "Lineup",
+    "category": "objection",
+    "skill": "close",
+    "bucket": 0,
+    "prompt": "\"Just email me a quote.\" You:",
+    "choices": [
+      "Send a bare MSRP and wait",
+      "Ask what they want compared, confirm the trim and the taxes they care about, and book a time to review the quote together so the email is not a ghost",
+      "Refuse to email anything",
+      "Email three payments with no term, no down and no disclaimers"
+    ],
+    "answer": 1,
+    "explanation": "An unanchored email becomes a screenshot in a Surrey thread. Build the quote with them, label what is included, and put a next appointment on it.",
+    "rev": 1
+  },
+  {
+    "id": "say-20min",
+    "vehicle": "Lineup",
+    "category": "objection",
+    "skill": "discovery",
+    "bucket": 0,
+    "prompt": "They have 20 minutes on a lunch break. You:",
+    "choices": [
+      "Start a 40-minute feature tour of every trim",
+      "Ask the one job the vehicle must do, show that one thing, and book the longer drive",
+      "Tell them to come back when they are serious",
+      "Skip discovery and present a GT because the gross is better"
+    ],
+    "answer": 1,
+    "explanation": "Short visits die in monologues. One use-case, one vehicle, one next step. The gross does not pick the car. Their Wednesday does.",
+    "rev": 1
+  },
+  {
+    "id": "say-cheap-feel",
+    "vehicle": "Outlander",
+    "category": "objection",
+    "skill": "trust",
+    "bucket": 0,
+    "prompt": "They drove a 2016 Outlander and remember hard plastics. You:",
+    "choices": [
+      "Say nothing has changed",
+      "Agree the old one felt dated, then sit them in the 2026 and let the screen, the seats and the quiet do the work. Ask what specifically bothered them",
+      "Argue that 2016 was the best interior in the segment",
+      "Apologize and switch them to another brand"
+    ],
+    "answer": 1,
+    "explanation": "The 2026 cabin is a different product: 12.3-inch screen, Yamaha audio, available leather and a much quieter brief from the factory. Nostalgia cuts both ways. Let the car answer, after you ask which part felt cheap.",
+    "rev": 1
+  },
+  {
+    "id": "say-wait-27",
+    "vehicle": "Outlander",
+    "category": "objection",
+    "skill": "close",
+    "bucket": 0,
+    "prompt": "\"I will wait for the next model year.\" You:",
+    "choices": [
+      "Knock the 2026 so they feel smart for waiting",
+      "Ask what they want that this one lacks. If the 2026 does the job, the warranty starts when they drive home, and a future model does not haul kids in the meantime",
+      "Promise the redesign will be cheaper",
+      "Say there will never be another Outlander"
+    ],
+    "answer": 1,
+    "explanation": "A 2027 can exist without making the in-stock 2026 wrong. Do not badmouth your own inventory and do not invent the next car's price. Find the feature they think they are waiting for.",
+    "rev": 1
+  },
+  {
+    "id": "say-noir-swirl",
+    "vehicle": "Outlander",
+    "category": "objection",
+    "skill": "trust",
+    "bucket": 0,
+    "prompt": "They love Noir black and worry about swirl marks. You:",
+    "choices": [
+      "Say black paint never swirls",
+      "Agree black shows wash marks. Talk wash habits, and still sell the look if they want it. Do not promise a ceramic package you have not cleared",
+      "Refuse to sell black cars",
+      "Tell them to buy white and stop worrying"
+    ],
+    "answer": 1,
+    "explanation": "Black is honest work. Noir is a styling choice, from the wheels to the headliner, not a different paint technology. Accessories get priced by the desk.",
+    "rev": 1
+  },
+  {
+    "id": "say-tires",
+    "vehicle": "Lineup",
+    "category": "objection",
+    "skill": "close",
+    "bucket": 0,
+    "prompt": "\"Throw in winter tires.\" You:",
+    "choices": [
+      "Say yes, you will pay for them personally",
+      "Acknowledge a B.C. winter needs real tires, tell them the car comes with all-seasons, and ask the desk what a tire package costs before you promise it",
+      "Say winter tires are illegal on a Mitsubishi",
+      "Claim S-AWC replaces winter tires"
+    ],
+    "answer": 1,
+    "explanation": "S-AWC is not a tire. All-seasons are not winters. Quote a package or do not offer one. The Coast is wet more often than it is deep-snow, and the mountains are a different drive.",
+    "rev": 1
+  },
+  {
+    "id": "say-lease",
+    "vehicle": "Lineup",
+    "category": "finance",
+    "skill": "finance",
+    "bucket": 0,
+    "prompt": "They want to lease, not finance. You:",
+    "choices": [
+      "Talk them out of it because finance gross is better",
+      "Ask kilometres per year, how long they keep cars, and whether they want a guaranteed residual. Then let the desk build lease and finance side by side",
+      "Quote a lease payment with a 12,000 km cap without asking how far they drive",
+      "Say Mitsubishi cannot lease in B.C."
+    ],
+    "answer": 1,
+    "explanation": "Kilometres decide a lease. A PoCo-to-Vancouver commuter can blow a low-cap lease by summer. Ask the driving before the payment.",
+    "rev": 1
+  },
+  {
+    "id": "say-web-pay",
+    "vehicle": "Lineup",
+    "category": "pricing",
+    "skill": "finance",
+    "bucket": 0,
+    "prompt": "The site shows a weekly payment with employee pricing. You:",
+    "choices": [
+      "Quote that weekly number as their payment",
+      "Treat the ad as a campaign with conditions. The desk quotes this customer, this stock unit, and today's rate",
+      "Say the website is lying",
+      "Offer that payment on a different trim to make it work"
+    ],
+    "answer": 1,
+    "explanation": "Campaigns on mitsubishi-motors.ca include eligibility, term and down-payment assumptions. The $ figure in the ad is not a promise. Your job is to get a real worksheet.",
+    "rev": 1
+  },
+  {
+    "id": "say-fees",
+    "vehicle": "Lineup",
+    "category": "pricing",
+    "skill": "trust",
+    "bucket": 0,
+    "prompt": "They compare an MSRP you quoted with an out-the-door number from another ad. You:",
+    "choices": [
+      "Insist MSRP is the on-the-road price",
+      "Separate MSRP from freight, PDI, taxes, levies and any products. Build both quotes the same way",
+      "Add hidden fees later",
+      "Drop taxes because they asked nicely"
+    ],
+    "answer": 1,
+    "explanation": "MSRP excludes freight, PDI, taxes and fees. A surprise documentation line at the end undoes an hour of good work. Line-item both quotes.",
+    "rev": 1
+  },
+  {
+    "id": "say-feature-dump",
+    "vehicle": "Lineup",
+    "category": "skill",
+    "skill": "benefit",
+    "bucket": 3,
+    "prompt": "You have 90 seconds beside an Outlander SEL. The skilled version is:",
+    "choices": [
+      "Read every feature on the monroney from the roof down",
+      "Pick the two features that match what they told you, translate each into their week, and ask if that is the one",
+      "Talk only about horsepower",
+      "Hand them the brochure and check your phone"
+    ],
+    "answer": 1,
+    "explanation": "Feature-to-benefit is a choice. Heated second row matters if a parent rides in back. It is noise if they drive alone. Discovery first, then two features, then a question.",
+    "rev": 1
+  },
+  {
+    "id": "say-demo",
+    "vehicle": "Outlander",
+    "category": "skill",
+    "skill": "discovery",
+    "bucket": 4,
+    "prompt": "Before a test drive, the question that most changes the route is:",
+    "choices": [
+      "Do you like red?",
+      "Where will this car be on a normal Tuesday, and who is in it?",
+      "What is your credit score, right here in the showroom?",
+      "Why did you waste time at the other store?"
+    ],
+    "answer": 1,
+    "explanation": "Tuesday picks the car. A school run, a job site and a Whistler Friday are three demos. Credit belongs in a private office, later, and not as a trap.",
+    "rev": 1
+  },
+  {
+    "id": "say-silence",
+    "vehicle": "Lineup",
+    "category": "skill",
+    "skill": "close",
+    "bucket": 1,
+    "prompt": "You asked \"If the numbers land where we discussed, are you taking it home today?\" They go quiet. You:",
+    "choices": [
+      "Fill the silence with a new discount",
+      "Wait. Then ask which part snagged",
+      "Announce they have lost the car",
+      "Walk away without a next step"
+    ],
+    "answer": 1,
+    "explanation": "Silence after a close is working. A nervous discount teaches them that the first number was fiction. Wait, then isolate.",
+    "rev": 1
+  },
+  {
+    "id": "ol-vs-phev-which",
+    "vehicle": "Outlander",
+    "category": "specs",
+    "skill": "discovery",
+    "bucket": 2,
+    "prompt": "Who is the better gas-versus-PHEV question aimed at?",
+    "choices": [
+      "Anyone who looks wealthy",
+      "Someone whose daily kilometres fit inside a reduced winter electric range, and who can plug in where they sleep",
+      "Everyone, because the PHEV payment is always lower",
+      "Nobody. PHEV is a specialty car for fleets only"
+    ],
+    "answer": 1,
+    "explanation": "Daily distance plus a plug decides the PHEV. A 45 km Port Coquitlam to downtown loop is the textbook case. A 180 km day with no outlet is a gas Outlander conversation. Payment is not automatically lower.",
+    "rev": 1
+  },
+  {
+    "id": "ol-yamaha-which",
+    "vehicle": "Outlander",
+    "category": "features",
+    "skill": "product",
+    "bucket": 3,
+    "prompt": "A music fan asks which Outlander has Yamaha audio. You say:",
+    "choices": [
+      "Only the GT",
+      "Every 2026 Outlander has Yamaha. ES through SEL are the 8-speaker Premium system. GT steps to the 12-speaker Ultimate system",
+      "Yamaha was replaced by Rockford Fosgate on the Outlander",
+      "Audio is a dealer-installed extra on all trims"
+    ],
+    "answer": 1,
+    "explanation": "Yamaha is standard across the gas Outlander. The upgrade is the speaker count at GT. Rockford Fosgate is the RVR GT. Play their song for ten seconds, then stop talking.",
+    "rev": 1
+  },
+  {
+    "id": "ol-regular",
+    "vehicle": "Lineup",
+    "category": "specs",
+    "skill": "product",
+    "bucket": 4,
+    "prompt": "Which statement is safe to tell a fuel buyer?",
+    "choices": [
+      "Every number I remember is a guarantee",
+      "NRCan ratings are comparison tools. I will show you the rating for the exact trim, and your result will move with weather, load and speed",
+      "All Mitsubishi vehicles use 3.2 L/100 km",
+      "Premium fuel is required in every model and is included for life"
+    ],
+    "answer": 1,
+    "explanation": "Ratings are for comparison. The footnote on mitsubishi-motors.ca says actual results vary. Quoting the right trim's number, with that sentence, is the professional version.",
+    "rev": 1
+  },
+  {
+    "id": "safety-limit",
+    "vehicle": "Lineup",
+    "category": "features",
+    "skill": "trust",
+    "bucket": 1,
+    "prompt": "You are about to demo a driver aid. You also say:",
+    "choices": [
+      "The car will brake and steer for you, so you can check texts",
+      "These are aids with limits. The driver is responsible. Hands stay on the wheel",
+      "Forward collision means a crash is impossible",
+      "Lane departure prevention is self-driving"
+    ],
+    "answer": 1,
+    "explanation": "Mitsubishi's own language: aids are not a substitute for careful driving, and they have limits. You protect the customer and the store by saying it before the demo, not after a scare.",
+    "rev": 1
+  },
+  {
+    "id": "delivery-connect",
+    "vehicle": "Outlander",
+    "category": "features",
+    "skill": "benefit",
+    "bucket": 2,
+    "prompt": "At delivery of an LE, the thing you do not skip is:",
+    "choices": [
+      "A second full feature tour of trims they did not buy",
+      "Phone pairing, Mitsubishi Connect enrollment, and a check that the features they bought actually work on this unit",
+      "Asking them to leave a review before they sit in the seat",
+      "Nothing. Delivery is paperwork only"
+    ],
+    "answer": 1,
+    "explanation": "Connect requires enrollment. An unpaired phone becomes \"the car is too complicated\" by Thursday. Delivery is the last selling skill, not a clerical chore.",
+    "rev": 1
+  },
+  {
+    "id": "color-roof",
+    "vehicle": "Outlander",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 3,
+    "prompt": "A buyer wants a two-tone roof on a 2026 Outlander. You:",
+    "choices": [
+      "Promise every colour can be ordered with a black roof by Friday",
+      "Check the actual two-tone availability for this model year and this stock. White Diamond, Red Diamond, Black Diamond and Moonstone Grey have been offered with contrast roofs. Confirm the unit",
+      "Say two-tone was cancelled in 2019",
+      "Paint it in the detail bay tonight"
+    ],
+    "answer": 1,
+    "explanation": "The 2026 brochure shows contrast roofs on specific colours, including Red Diamond, White Diamond, Black Diamond and Moonstone Grey. Availability is a stock question. Do not repaint a car in conversation.",
+    "rev": 1
+  },
+  {
+    "id": "phev-seats-same",
+    "vehicle": "Outlander PHEV",
+    "category": "specs",
+    "skill": "product",
+    "bucket": 4,
+    "prompt": "Does the 2026 Outlander PHEV keep the third row?",
+    "choices": [
+      "No, the battery deletes it",
+      "Yes. Seven-passenger seating is listed on the PHEV, and the battery is packaged under the floor",
+      "Only as a dealer accessory",
+      "The third row is forward-facing child seats only, legally"
+    ],
+    "answer": 1,
+    "explanation": "The 2026 release is explicit that the larger battery sits under the floor and does not take the interior. Seven seats remain. The third-row comfort limit is the same honest conversation as the gas model.",
+    "rev": 1
+  },
+  {
+    "id": "phev-motors",
+    "vehicle": "Outlander PHEV",
+    "category": "specs",
+    "skill": "phev",
+    "bucket": 1,
+    "prompt": "The 2026 PHEV all-wheel system is driven by:",
+    "choices": [
+      "A driveshaft only, same as the gas model",
+      "Twin AC motors, front and rear, with S-AWC",
+      "Rear motor only",
+      "A viscous coupling and no electric motors"
+    ],
+    "answer": 1,
+    "explanation": "Twin motors, front and rear, are the PHEV's S-AWC layout. The brochure lists motor output separately from the 2.4L engine. That is why it can drive electrically with traction at both axles.",
+    "rev": 1
+  },
+  {
+    "id": "ec-heat",
+    "vehicle": "Eclipse Cross",
+    "category": "features",
+    "skill": "benefit",
+    "bucket": 2,
+    "prompt": "Heated front seats on the Eclipse Cross are:",
+    "choices": [
+      "GT only",
+      "Standard on ES",
+      "Not available",
+      "A PHEV exclusive"
+    ],
+    "answer": 1,
+    "explanation": "Heated fronts are on the ES list. Heated rear seats wait for Noir. Lead with fronts if they mentioned cold hands, and step to Noir only if the kids in back are the actual complaint.",
+    "rev": 1
+  },
+  {
+    "id": "rvr-lock",
+    "vehicle": "RVR",
+    "category": "specs",
+    "skill": "benefit",
+    "bucket": 3,
+    "prompt": "When would you recommend 4WD Lock on an RVR?",
+    "choices": [
+      "Highway cruising at 110 to improve fuel economy",
+      "Low-speed slippery surfaces, snow or a rough patch, then back to Auto or 2WD on dry pavement",
+      "All day, every day, because lock is the normal mode",
+      "Only when towing 5,000 lb"
+    ],
+    "answer": 1,
+    "explanation": "The brochure describes 4WD Lock as the always-on split for slippery surfaces, and 2WD as the dry-pavement economy mode. Teach the button. Do not leave them in Lock forever.",
+    "rev": 1
+  },
+  {
+    "id": "ol-paddle",
+    "vehicle": "Outlander",
+    "category": "features",
+    "skill": "product",
+    "bucket": 4,
+    "prompt": "Paddle shifters on the 2026 gas Outlander are:",
+    "choices": [
+      "Not offered",
+      "Standard, on the CVT",
+      "GT only",
+      "A manual transmission option"
+    ],
+    "answer": 1,
+    "explanation": "The CVT includes paddle shifters across the gas Outlander trims in the 2026 brochure. They select ratios. They do not turn the car into a manual. On the PHEV the paddles also manage regenerative braking.",
+    "rev": 1
+  },
+  {
+    "id": "ol-startstop",
+    "vehicle": "Outlander",
+    "category": "specs",
+    "skill": "product",
+    "bucket": 1,
+    "prompt": "A customer thinks the 2026 gas Outlander has stalled at a light. You explain:",
+    "choices": [
+      "The battery is dead, do not buy it",
+      "Auto start-stop, part of the 48-volt mild hybrid. It shuts the engine off at a full stop and restarts when the brake releases",
+      "That only happens on the PHEV",
+      "It is a fault they should ignore forever"
+    ],
+    "answer": 1,
+    "explanation": "The mild-hybrid start-stop is supposed to be quiet. Show them once on the drive so the first downtown light does not feel like a breakdown.",
+    "rev": 1
+  },
+  {
+    "id": "desk-ownership",
+    "vehicle": "Lineup",
+    "category": "pricing",
+    "skill": "finance",
+    "bucket": 2,
+    "prompt": "Who is allowed to invent a payment on the spot?",
+    "choices": [
+      "Anyone who has done this for a year",
+      "Nobody. You gather the term, down payment, kilometres and trade picture. The desk calculates",
+      "The customer, if they saw a YouTube video",
+      "Only on Saturdays"
+    ],
+    "answer": 1,
+    "explanation": "A verbal payment that the worksheet cannot hit is a broken promise. Skill is knowing which four facts the desk needs, and not freelancing the fifth.",
+    "rev": 1
+  },
+  {
+    "id": "kids-seats",
+    "vehicle": "Outlander",
+    "category": "skill",
+    "skill": "discovery",
+    "bucket": 3,
+    "prompt": "Two car seats and a teenager. Which question matters before you pick gas Outlander or Eclipse Cross?",
+    "choices": [
+      "What is your favourite colour?",
+      "Do all three kids ride at once, how often, and does a teenager need the third row or will two rows and cargo do?",
+      "Do you care about badges?",
+      "Which store did you visit in Surrey?"
+    ],
+    "answer": 1,
+    "explanation": "Three kids at once is the Outlander. Two kids and a dog and a stroller may be happier in a five-seat with the third row not eating the trunk. Ask the week, not the category.",
+    "rev": 1
+  },
+  {
+    "id": "phev-precondition",
+    "vehicle": "Outlander PHEV",
+    "category": "features",
+    "skill": "phev",
+    "bucket": 4,
+    "prompt": "A useful PHEV habit you can teach at delivery is:",
+    "choices": [
+      "Warm the cabin on battery while parked so the range is gone before they leave",
+      "Pre-condition while plugged in, when the setup allows, so heat comes from the wall instead of the morning range",
+      "Never plug it in, to save the battery",
+      "Discharge to zero every night to calibrate"
+    ],
+    "answer": 1,
+    "explanation": "The 2026 charging notes include scheduling a charge and using climate while connected. That is a real winter tip. \"Run it to zero nightly\" is not.",
+    "rev": 1
+  },
+  {
+    "id": "honest-stock",
+    "vehicle": "Lineup",
+    "category": "skill",
+    "skill": "trust",
+    "bucket": 1,
+    "prompt": "The colour they want is incoming, not on the ground. You:",
+    "choices": [
+      "Say it is out back",
+      "Show the ETA you actually have, offer a comparable in-stock unit, and do not lock a deal to a date the factory has not confirmed",
+      "Tell them incoming units are cancelled",
+      "Sell them a different brand's car off the street"
+    ],
+    "answer": 1,
+    "explanation": "Stock honesty is a selling skill. A made-up ETA becomes a Saturday meltdown. In-stock loses to the right car sometimes, and that is fine if the next step is real.",
+    "rev": 1
+  },
+  {
+    "id": "greet-order",
+    "vehicle": "Lineup",
+    "category": "skill",
+    "skill": "discovery",
+    "bucket": 2,
+    "prompt": "The first minute on the lot, in order, is:",
+    "choices": [
+      "Price, credit, manager, close",
+      "Welcome, names, what they want the vehicle to do, then one car that fits",
+      "Feature dump, then ask if they are buying today",
+      "Hand them to the next rep because you are busy"
+    ],
+    "answer": 1,
+    "explanation": "Greeter is a rank, not a waiting room. The first minute sets trust. Use their name, find the job of the car, then walk. Product knowledge without a question is a speech.",
+    "rev": 1
+  },
+  {
+    "id": "ol-tow-ask",
+    "vehicle": "Outlander",
+    "category": "specs",
+    "skill": "discovery",
+    "bucket": 3,
+    "prompt": "They mention a trailer. Before you quote 907 kg you ask:",
+    "choices": [
+      "Nothing. 907 kg covers every trailer in B.C.",
+      "What the trailer weighs loaded, how often, and whether the hitch and brakes match the manual",
+      "Whether they want the Noir appearance package",
+      "If they would rather look at a competitor's half-ton"
+    ],
+    "answer": 1,
+    "explanation": "907 kg is the published gas Outlander figure and it varies by configuration. A loaded toy trailer can blow it. Ask the weight. Then read the manual together if it is close.",
+    "rev": 1
+  },
+  {
+    "id": "ec-snow",
+    "vehicle": "Eclipse Cross",
+    "category": "specs",
+    "skill": "benefit",
+    "bucket": 4,
+    "prompt": "On an Eclipse Cross, the mode you select for a slushy morning is:",
+    "choices": [
+      "Power",
+      "Snow",
+      "4WD Lock",
+      "EV Priority"
+    ],
+    "answer": 1,
+    "explanation": "Snow is one of the three Eclipse Cross S-AWC modes. 4WD Lock is the RVR. Power and EV Priority are PHEV language. Use the button this vehicle has.",
+    "rev": 1
+  },
+  {
+    "id": "badge-noir-meaning",
+    "vehicle": "Lineup",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 1,
+    "prompt": "Across the 2026 lineup, Noir generally means:",
+    "choices": [
+      "A plug-in powertrain",
+      "A blacked-out appearance package on that model, not an engine upgrade",
+      "The cheapest trim",
+      "A limited manual transmission"
+    ],
+    "answer": 1,
+    "explanation": "Noir on Outlander, Eclipse Cross and RVR is styling: black wheels, badges, dark trim. Check the specific equipment list because the tech content is not identical from model to model.",
+    "rev": 1
+  },
+  {
+    "id": "who-confirms-price",
+    "vehicle": "Lineup",
+    "category": "pricing",
+    "skill": "trust",
+    "bucket": 2,
+    "prompt": "Where does a guest confirm a price you are not sure of?",
+    "choices": [
+      "A memory from last April",
+      "The current mitsubishi-motors.ca build, then the desk for this unit's out-the-door figure",
+      "A forum signature",
+      "Whatever the other brand's ad says"
+    ],
+    "answer": 1,
+    "explanation": "MSRP changes. Campaigns change. The public build is the anchor and the desk is the out-the-door number. Guessing a price is not product knowledge.",
+    "rev": 1
+  },
+  {
+    "id": "ol-price-le",
+    "vehicle": "Outlander",
+    "category": "pricing",
+    "skill": "product",
+    "bucket": 3,
+    "prompt": "MSRP of the 2026 Outlander LE S-AWC is:",
+    "choices": [
+      "$39,098",
+      "$42,198",
+      "$44,898",
+      "$47,398"
+    ],
+    "answer": 1,
+    "explanation": "LE is $42,198. SE is $39,098, SEL is $44,898, GT is $47,398. The 360 camera and adaptive cruise live at LE, which is why the step from SE is a safety-and-tech conversation, not a paint conversation.",
+    "rev": 1
+  },
+  {
+    "id": "ol-price-sel",
+    "vehicle": "Outlander",
+    "category": "pricing",
+    "skill": "product",
+    "bucket": 4,
+    "prompt": "MSRP of the 2026 Outlander SEL S-AWC is:",
+    "choices": [
+      "$42,198",
+      "$44,898",
+      "$47,398",
+      "$48,398"
+    ],
+    "answer": 1,
+    "explanation": "SEL is $44,898. That is the leather, ventilated seat, heated second row, memory and 20-inch wheel step. GT Premium is $48,398.",
+    "rev": 1
+  },
+  {
+    "id": "ol-price-gtp",
+    "vehicle": "Outlander",
+    "category": "pricing",
+    "skill": "product",
+    "bucket": 1,
+    "prompt": "MSRP of the 2026 Outlander GT Premium S-AWC is:",
+    "choices": [
+      "$47,398",
+      "$48,398",
+      "$49,748",
+      "$61,698"
+    ],
+    "answer": 1,
+    "explanation": "GT Premium is $48,398. Noir is $49,748. $61,698 is the PHEV GT Premium. Same adjectives, different powertrains, very different money.",
+    "rev": 1
+  },
+  {
+    "id": "phev-price-se",
+    "vehicle": "Outlander PHEV",
+    "category": "pricing",
+    "skill": "product",
+    "bucket": 2,
+    "prompt": "MSRP of the 2026 Outlander PHEV SE S-AWC is:",
+    "choices": [
+      "$46,998",
+      "$52,598",
+      "$54,798",
+      "$57,598"
+    ],
+    "answer": 1,
+    "explanation": "PHEV SE is $52,598. ES is $46,998, LE is $54,798, SEL is $57,598. The SE still brings the sunroof, heated wheel, wireless charger and hands-free liftgate.",
+    "rev": 1
+  },
+  {
+    "id": "ec-price-se",
+    "vehicle": "Eclipse Cross",
+    "category": "pricing",
+    "skill": "product",
+    "bucket": 3,
+    "prompt": "MSRP of the 2026 Eclipse Cross SE S-AWC is:",
+    "choices": [
+      "$29,798",
+      "$33,298",
+      "$36,898",
+      "$38,898"
+    ],
+    "answer": 1,
+    "explanation": "SE is $33,298. That step adds blind-spot warning, rear cross traffic, dual-zone climate, FAST-Key and the heated wheel. Noir is $36,898 and GT is $38,898.",
+    "rev": 1
+  },
+  {
+    "id": "rvr-price-se",
+    "vehicle": "RVR",
+    "category": "pricing",
+    "skill": "product",
+    "bucket": 4,
+    "prompt": "MSRP of the 2026 RVR SE AWC is:",
+    "choices": [
+      "$26,998",
+      "$28,998",
+      "$31,498",
+      "$32,998"
+    ],
+    "answer": 1,
+    "explanation": "SE AWC is $28,998. ES AWC is $26,998. SEL is $31,498. Noir is $32,998. SE adds blind-spot warning, rear cross traffic, 16-inch alloys, privacy glass and a leather-wrapped wheel.",
+    "rev": 1
+  },
+  {
+    "id": "not-a-plug",
+    "vehicle": "Outlander",
+    "category": "specs",
+    "skill": "trust",
+    "bucket": 1,
+    "prompt": "A guest calls the gas Outlander a plug-in because they heard \"hybrid\". You say:",
+    "choices": [
+      "Yes, there is a plug behind the badge",
+      "The gas Outlander is a 48-volt mild hybrid. It does not plug in. The vehicle you plug in is the Outlander PHEV",
+      "Mild hybrid means 72 km of electric range",
+      "Both versions use the same 22.7 kWh battery"
+    ],
+    "answer": 1,
+    "explanation": "48-volt assistance and auto start-stop are not a plug-in. The PHEV has the 22.7 kWh pack, the port and the 72 km rating. Mixing the names creates a delivery that feels like a bait and switch.",
+    "rev": 1
+  },
+  {
+    "id": "ol-tank",
+    "vehicle": "Outlander",
+    "category": "specs",
+    "skill": "product",
+    "bucket": 2,
+    "prompt": "Fuel-tank capacity on the 2026 gas Outlander is:",
+    "choices": [
+      "35 L",
+      "55 L",
+      "80 L",
+      "22.7 kWh"
+    ],
+    "answer": 1,
+    "explanation": "55 litres. 35 litres was the Mirage. Kilowatt-hours are not litres. At 8.7 L/100 km combined, 55 litres is the highway math you only do after you have quoted the rating honestly.",
+    "rev": 1
+  },
+  {
+    "id": "ec-airbags",
+    "vehicle": "Eclipse Cross",
+    "category": "specs",
+    "skill": "product",
+    "bucket": 3,
+    "prompt": "Airbags standard on the 2026 Eclipse Cross are:",
+    "choices": [
+      "4",
+      "7",
+      "11",
+      "2"
+    ],
+    "answer": 1,
+    "explanation": "Seven airbags on the Eclipse Cross. The Outlander is the one with 11. Safety counts are not a place to round up.",
+    "rev": 1
+  },
+  {
+    "id": "rvr-wheels",
+    "vehicle": "RVR",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 4,
+    "prompt": "The 2026 RVR ES rolls on:",
+    "choices": [
+      "20-inch two-tone alloys",
+      "18-inch black alloys",
+      "16-inch steel wheels with covers",
+      "15-inch Mirage alloys"
+    ],
+    "answer": 2,
+    "explanation": "ES is 16-inch steel with wheel covers. SE moves to 16-inch alloys. SEL and above go to 18-inch. If alloys matter, you are not presenting an ES.",
+    "rev": 1
+  },
+  {
+    "id": "ec-wheels",
+    "vehicle": "Eclipse Cross",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 1,
+    "prompt": "Wheel size standard on the 2026 Eclipse Cross ES is:",
+    "choices": [
+      "16-inch steel",
+      "18-inch alloy",
+      "20-inch alloy",
+      "14-inch"
+    ],
+    "answer": 1,
+    "explanation": "18-inch alloys are on the ES. Noir paints them black. You do not have to apologize for the ES wheels.",
+    "rev": 1
+  },
+  {
+    "id": "sawc-all-ec",
+    "vehicle": "Eclipse Cross",
+    "category": "specs",
+    "skill": "product",
+    "bucket": 2,
+    "prompt": "Which Eclipse Cross trims include S-AWC?",
+    "choices": [
+      "GT only",
+      "Noir and GT",
+      "Every trim",
+      "None. That is an Outlander exclusive"
+    ],
+    "answer": 2,
+    "explanation": "S-AWC is standard on every 2026 Eclipse Cross. The RVR is the model where the base ES can be front-wheel drive and the system is AWC rather than S-AWC.",
+    "rev": 1
+  },
+  {
+    "id": "rvr-sel-key",
+    "vehicle": "RVR",
+    "category": "trims",
+    "skill": "product",
+    "bucket": 3,
+    "prompt": "FAST-Key, push-button start and a heated steering wheel on the RVR arrive at:",
+    "choices": [
+      "ES",
+      "SE",
+      "SEL",
+      "They are not offered"
+    ],
+    "answer": 2,
+    "explanation": "SEL AWC, at $31,498, adds the 18-inch wheels, heated power-folding mirrors, roof rails, microsuede, push-button start, FAST-Key and the heated wheel. SE has the leather-wrapped wheel, not the heated one.",
+    "rev": 1
+  },
+  {
+    "id": "skill-two-things",
+    "vehicle": "Lineup",
+    "category": "skill",
+    "skill": "benefit",
+    "bucket": 0,
+    "prompt": "You just learned they commute, carry one child and park outside. Which pair do you present on an Outlander SE?",
+    "choices": [
+      "Aluminum pedals and the Noir badge",
+      "Heated steering wheel and the hands-free liftgate, tied to the cold start and the child on the hip",
+      "The full safety acronym list",
+      "Third-row hip room measurements from memory"
+    ],
+    "answer": 1,
+    "explanation": "SE is exactly the trim where the heated wheel and the hands-free liftgate show up. Tie each to the life they described. Save the acronyms for the question they actually ask.",
+    "rev": 1
+  }
+]

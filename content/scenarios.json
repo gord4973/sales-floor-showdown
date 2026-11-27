@@ -1,0 +1,1646 @@
+[
+  {
+    "mood": 56,
+    "trust": 24,
+    "rev": 1,
+    "id": "priya-first",
+    "title": "First car, first visit",
+    "tag": "First-time buyer",
+    "customer": "Priya",
+    "role": "New grad, parents helping with the down payment",
+    "budget": 32000,
+    "looking": "Small SUV",
+    "recommend": "2026 RVR ES AWC, or Eclipse Cross ES if she wants the turbo",
+    "hidden": "Her parents told her to buy a Corolla because \"it holds its value\".",
+    "accent": "#3dfff2",
+    "beats": [
+      {
+        "say": "Hi. I'm just looking. I've never bought a car before.",
+        "choices": [
+          {
+            "text": "Welcome in, Priya. What do you need the car to do, and who else is part of this?",
+            "quality": "best",
+            "skill": "discovery",
+            "reply": "My parents are helping with the down payment. They have opinions.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "The RVR is on special. Want to start there?",
+            "quality": "ok",
+            "skill": "product",
+            "reply": "Maybe. I don't really know what the differences are.",
+            "trust": 6,
+            "mood": 1
+          },
+          {
+            "text": "You look like an Eclipse Cross person. Come sit down.",
+            "quality": "poor",
+            "skill": "trust",
+            "reply": "I... okay. I guess.",
+            "trust": -14,
+            "mood": -12
+          }
+        ]
+      },
+      {
+        "say": "I drive to work in Vancouver most days. Just me. Sometimes my sister.",
+        "choices": [
+          {
+            "text": "How many kilometres on a normal day, and do you park outside at home?",
+            "quality": "best",
+            "skill": "discovery",
+            "reply": "About forty. Outside, at my parents' place in Port Coquitlam.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Then you want all-wheel drive and a sunroof. Let me show you a loaded one.",
+            "quality": "poor",
+            "skill": "product",
+            "reply": "That sounds expensive. I had a number in my head.",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "A five-seat SUV can do that. We will check the payment against the help your parents are giving.",
+            "quality": "ok",
+            "skill": "finance",
+            "reply": "They said around eight thousand down. I don't want the payment to scare them.",
+            "trust": 6,
+            "mood": 1
+          }
+        ]
+      },
+      {
+        "say": "They told me to just get a Corolla. They said it holds its value and Mitsubishi doesn't.",
+        "choices": [
+          {
+            "text": "They might be right about resale. I won't promise a number three years out. Let's put warranty, winter driving and today's payment beside a Corolla quote.",
+            "quality": "best",
+            "skill": "competitor",
+            "reply": "Okay. That's fairer than I expected.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Resale is a myth. Ignore them.",
+            "quality": "poor",
+            "skill": "trust",
+            "reply": "They're paying. I'm not going to ignore them.",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "Our 10-year powertrain is longer than Toyota's 5-year coverage. Want to see the line in the booklet?",
+            "quality": "ok",
+            "skill": "product",
+            "reply": "If I can show them that on paper, maybe.",
+            "trust": 6,
+            "mood": 1
+          }
+        ]
+      },
+      {
+        "say": "If I brought them, what would we even sit in? I don't want to waste their Saturday.",
+        "choices": [
+          {
+            "text": "One car. RVR ES AWC: heated seats, a price that respects the budget, and AWC you can show them in the rain. Eclipse Cross only if you want the turbo more than the lower payment.",
+            "quality": "best",
+            "skill": "benefit",
+            "reply": "The RVR sounds like the one I can defend.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "We'll look at all six trims so they feel thorough.",
+            "quality": "poor",
+            "skill": "discovery",
+            "reply": "They will hate that. My dad gets impatient.",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "Sit in the Outlander GT. Parents like leather.",
+            "quality": "poor",
+            "skill": "finance",
+            "reply": "That payment would end the conversation.",
+            "trust": -14,
+            "mood": -12
+          }
+        ]
+      },
+      {
+        "say": "So... what happens now?",
+        "choices": [
+          {
+            "text": "If the RVR ES AWC on the lot fits the payment with their down payment, we write it up subject to them seeing it tonight. What time do they get home?",
+            "quality": "best",
+            "skill": "close",
+            "reply": "They're home at six. I can bring them.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Take a brochure and think about the whole lineup.",
+            "quality": "poor",
+            "skill": "close",
+            "reply": "Yeah. I'll... think about it.",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "I can hold the car if you leave a deposit your parents don't know about.",
+            "quality": "poor",
+            "skill": "trust",
+            "reply": "No. I'm not doing that to them.",
+            "trust": -20,
+            "mood": -12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "mood": 42,
+    "trust": 18,
+    "rev": 1,
+    "id": "doug-trade",
+    "title": "The trade is his baby",
+    "tag": "Trade-in skeptic",
+    "customer": "Doug",
+    "role": "Owns a 2018 RAV4 he serviced on time",
+    "budget": 45000,
+    "looking": "Outlander",
+    "recommend": "2026 Outlander SE or LE, after a real appraisal",
+    "hidden": "He thinks the store will lowball the RAV4 to steal the deal.",
+    "accent": "#ffc14d",
+    "beats": [
+      {
+        "say": "I'm looking. And before you ask, I already know what my RAV4 is worth.",
+        "choices": [
+          {
+            "text": "Good. Tell me the number you need this deal to hit, and we'll appraise it properly instead of guessing in the aisle.",
+            "quality": "best",
+            "skill": "trade",
+            "reply": "I was offered twenty-one at the Toyota store. I don't trust that either.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Trades are a hassle. You'll get more privately.",
+            "quality": "poor",
+            "skill": "trade",
+            "reply": "So you don't want my business.",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "We always beat Toyota by a thousand. Done.",
+            "quality": "poor",
+            "skill": "trust",
+            "reply": "You haven't even looked at it.",
+            "trust": -24,
+            "mood": -12,
+            "fatal": true
+          }
+        ]
+      },
+      {
+        "say": "It has every service record. I don't want someone kicking the tires and shrugging.",
+        "choices": [
+          {
+            "text": "Records help. We'll do a real walkaround: tires, panels, the service book. I won't insult a car you maintained.",
+            "quality": "best",
+            "skill": "trust",
+            "reply": "Alright. It's the grey one by the door.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Condition barely matters. It's all auction anyway.",
+            "quality": "poor",
+            "skill": "trade",
+            "reply": "Then why would I bother washing it?",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "I'll have the manager glance at it later.",
+            "quality": "ok",
+            "skill": "trade",
+            "reply": "Later usually means a worse number.",
+            "trust": 6,
+            "mood": 1
+          }
+        ]
+      },
+      {
+        "say": "Be straight. Are you going to lowball me to make the Outlander look cheap?",
+        "choices": [
+          {
+            "text": "The trade is one number and the Outlander is another. We won't bury a weak appraisal inside a discount. You'll see both.",
+            "quality": "best",
+            "skill": "trade",
+            "reply": "That's the first straight sentence today.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Everyone feels lowballed. Get used to it.",
+            "quality": "poor",
+            "skill": "trust",
+            "reply": "I'm done.",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "If the number is light we can add it back as a discount so the payment looks the same.",
+            "quality": "poor",
+            "skill": "finance",
+            "reply": "That's the same trick.",
+            "trust": -8,
+            "mood": -12
+          }
+        ]
+      },
+      {
+        "say": "Fine. Why an Outlander instead of another RAV4?",
+        "choices": [
+          {
+            "text": "Seven seats when the grandkids are here, S-AWC standard, and a 10-year powertrain. Their hybrid will win on fuel. I won't pretend otherwise.",
+            "quality": "best",
+            "skill": "competitor",
+            "reply": "The grandkids are the reason I'm even here.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Because Toyota is overpriced and boring.",
+            "quality": "poor",
+            "skill": "competitor",
+            "reply": "I've liked that RAV4 for six years. Watch it.",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "The Outlander is nicer. You'll see.",
+            "quality": "ok",
+            "skill": "benefit",
+            "reply": "Show me, then.",
+            "trust": 6,
+            "mood": 1
+          }
+        ]
+      },
+      {
+        "say": "If the appraisal is close to that other offer, I'll listen.",
+        "choices": [
+          {
+            "text": "Let's appraise it now and pick SE or LE based on the camera and the cruise, not on a fantasy number. If we can't land, I'll tell you.",
+            "quality": "best",
+            "skill": "close",
+            "reply": "Do the appraisal. I'll wait.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Sign the worksheet and we'll adjust the trade after.",
+            "quality": "poor",
+            "skill": "trust",
+            "reply": "No chance.",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "Come back tomorrow and ask for the used-car manager.",
+            "quality": "ok",
+            "skill": "close",
+            "reply": "I have time now. Tomorrow I won't.",
+            "trust": 6,
+            "mood": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "mood": 56,
+    "trust": 24,
+    "rev": 1,
+    "id": "lena-phev",
+    "title": "The condo commuter",
+    "tag": "PHEV curious",
+    "customer": "Lena",
+    "role": "Port Coquitlam to downtown, most weekdays",
+    "budget": 55000,
+    "looking": "Outlander PHEV",
+    "recommend": "2026 Outlander PHEV ES or SE, after a charging plan",
+    "hidden": "She lives in a condo and does not have a charger yet.",
+    "accent": "#7aa2ff",
+    "beats": [
+      {
+        "say": "I keep seeing the plug-in. I don't want a science project.",
+        "choices": [
+          {
+            "text": "It should feel like a normal SUV that can skip the gas station on short days. How far is the drive, door to door?",
+            "quality": "best",
+            "skill": "discovery",
+            "reply": "About forty-five kilometres, round trip. More if I go to the gym.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "It's basically a full EV. You'll never buy gas.",
+            "quality": "poor",
+            "skill": "phev",
+            "reply": "That's not what the article said.",
+            "trust": -14,
+            "mood": -12,
+            "fatal": true
+          },
+          {
+            "text": "The gas Outlander is simpler. Forget the plug.",
+            "quality": "ok",
+            "skill": "product",
+            "reply": "I didn't come in to be talked out of it.",
+            "trust": 6,
+            "mood": 1
+          }
+        ]
+      },
+      {
+        "say": "Forty-five kilometres. I could do that on electricity, right? It says 72.",
+        "choices": [
+          {
+            "text": "72 is the NRCan number. Winter and heat will cut it. Some January days the engine will help. Most of your year, that commute fits.",
+            "quality": "best",
+            "skill": "phev",
+            "reply": "Okay. I'd rather know that now.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "72, guaranteed, including January.",
+            "quality": "poor",
+            "skill": "trust",
+            "reply": "I don't believe you.",
+            "trust": -14,
+            "mood": -12,
+            "fatal": true
+          },
+          {
+            "text": "The 3.2 L/100 km figure means almost no gas, ever.",
+            "quality": "poor",
+            "skill": "phev",
+            "reply": "My brother said that number is a trick.",
+            "trust": -14,
+            "mood": -12,
+            "fatal": true
+          }
+        ]
+      },
+      {
+        "say": "I park in a condo garage. There's no charger with my stall.",
+        "choices": [
+          {
+            "text": "Then we don't pretend a 240-volt charger appears on delivery. A regular 120-volt outlet, if you can use one, is about 16 hours from empty. Who owns the stall, and have you asked the strata?",
+            "quality": "best",
+            "skill": "phev",
+            "reply": "I haven't asked. I didn't want to look foolish.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Stratas always say yes. We'll include a charger.",
+            "quality": "poor",
+            "skill": "trust",
+            "reply": "You can't promise my strata.",
+            "trust": -14,
+            "mood": -12,
+            "fatal": true
+          },
+          {
+            "text": "You can charge at the mall sometimes. It's fine.",
+            "quality": "ok",
+            "skill": "phev",
+            "reply": "That sounds annoying, but maybe.",
+            "trust": 6,
+            "mood": 1
+          }
+        ]
+      },
+      {
+        "say": "If the strata says no, did I buy the wrong vehicle?",
+        "choices": [
+          {
+            "text": "Not automatically. It still runs as a hybrid on gas, rated about 8.6 L/100 km, and you can DC quick-charge when it matters. If you will never plug in, the gas Outlander may be the cleaner buy.",
+            "quality": "best",
+            "skill": "trust",
+            "reply": "I like that you'd actually tell me not to.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "You should buy it anyway. The rebate covers the mistake.",
+            "quality": "poor",
+            "skill": "finance",
+            "reply": "I don't even know if I qualify.",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "Plug-ins are only for houses.",
+            "quality": "poor",
+            "skill": "phev",
+            "reply": "Then why am I here?",
+            "trust": -14,
+            "mood": -12
+          }
+        ]
+      },
+      {
+        "say": "Can we drive it in EV mode around the block?",
+        "choices": [
+          {
+            "text": "Yes. EV mode, then I'll show you Save so you can hold charge for the parkade. If it feels right, we check rebate eligibility before anyone quotes a payment.",
+            "quality": "best",
+            "skill": "close",
+            "reply": "Let's drive it.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "The test drive is gas only. EV mode confuses people.",
+            "quality": "poor",
+            "skill": "phev",
+            "reply": "That's the part I came to feel.",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "Sign first, drive at delivery.",
+            "quality": "poor",
+            "skill": "close",
+            "reply": "No.",
+            "trust": -14,
+            "mood": -12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "mood": 56,
+    "trust": 24,
+    "rev": 1,
+    "id": "sam-payment",
+    "title": "The payment ceiling",
+    "tag": "Payment-focused family",
+    "customer": "Sam",
+    "role": "Two kids in car seats, a number they will not cross",
+    "budget": 620,
+    "looking": "Outlander, payment near $620 a month",
+    "recommend": "2026 Outlander SE, with the term and down payment shown honestly",
+    "hidden": "The $620 ceiling is after tax and includes the winter tires they haven't mentioned yet.",
+    "accent": "#ff7ad9",
+    "beats": [
+      {
+        "say": "We need a family SUV. The payment has to stay near six-twenty. That's the whole conversation.",
+        "choices": [
+          {
+            "text": "Six-twenty all-in, or before taxes and extras? And do both kids ride at the same time every day?",
+            "quality": "best",
+            "skill": "finance",
+            "reply": "All-in. And yes, both seats, every day. Sometimes my mother.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Payments are easy. We'll stretch the term.",
+            "quality": "poor",
+            "skill": "finance",
+            "reply": "I don't want to still be paying when they're in high school.",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "Let me show you the GT. You can always come down.",
+            "quality": "poor",
+            "skill": "product",
+            "reply": "I just told you the number.",
+            "trust": -14,
+            "mood": -12
+          }
+        ]
+      },
+      {
+        "say": "My mother comes on Sundays. The kids are in seats all week. I also have a stroller and a dog.",
+        "choices": [
+          {
+            "text": "That is an Outlander, not an Eclipse Cross. Third row for your mother on Sunday, folded the rest of the week so the stroller fits. Cargo behind the third row is only about 308 litres.",
+            "quality": "best",
+            "skill": "benefit",
+            "reply": "Good. The last salesperson pretended the back was huge.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Seven seats means lots of cargo too. You'll be fine with everything in it.",
+            "quality": "poor",
+            "skill": "trust",
+            "reply": "That can't be true.",
+            "trust": -14,
+            "mood": -12,
+            "fatal": true
+          },
+          {
+            "text": "A five-seat with a roof box is the same thing.",
+            "quality": "ok",
+            "skill": "product",
+            "reply": "I don't want a roof box in the parkade.",
+            "trust": 6,
+            "mood": 1
+          }
+        ]
+      },
+      {
+        "say": "Every quote I've had jumps when they add taxes and tires.",
+        "choices": [
+          {
+            "text": "Then those go in the first pencil. Taxes, freight, PDI, and winter tires as a line you can say yes or no to. I won't land a payment that can't survive the office.",
+            "quality": "best",
+            "skill": "finance",
+            "reply": "Please. I'm tired of the second number.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Ignore the first quotes. Ours will be different, trust me.",
+            "quality": "poor",
+            "skill": "trust",
+            "reply": "That's what they all say.",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "We can roll the tires in and not show them.",
+            "quality": "poor",
+            "skill": "finance",
+            "reply": "I want to see them.",
+            "trust": -10,
+            "mood": -12
+          }
+        ]
+      },
+      {
+        "say": "SE or LE? The LE payment might break us.",
+        "choices": [
+          {
+            "text": "SE has the heated wheel, the liftgate and the sunroof. LE adds the 360 camera and adaptive cruise. If the camera saves a bumper in your parkade, we price it. If not, SE is the honest fit.",
+            "quality": "best",
+            "skill": "benefit",
+            "reply": "The parkade is tight. Price the LE. I'll decide with the real number.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Always buy the higher trim. You'll regret SE.",
+            "quality": "poor",
+            "skill": "trust",
+            "reply": "You don't know my budget better than I do.",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "They're basically identical.",
+            "quality": "ok",
+            "skill": "product",
+            "reply": "Then why is the price different?",
+            "trust": 6,
+            "mood": 1
+          }
+        ]
+      },
+      {
+        "say": "If the all-in number is under six-fifty I can probably move. Six-twenty was the dream.",
+        "choices": [
+          {
+            "text": "I'll have the desk build SE and LE, all-in, same down payment, tires shown. You pick with both numbers in front of you. No surprise in the office.",
+            "quality": "best",
+            "skill": "close",
+            "reply": "Build them. We'll sit down.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Let's do 96 months so six-twenty works, and we'll talk total later.",
+            "quality": "poor",
+            "skill": "finance",
+            "reply": "That's how my brother got stuck.",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "I'll text you a payment tonight.",
+            "quality": "ok",
+            "skill": "close",
+            "reply": "Text me both, but I'd rather see them now.",
+            "trust": 6,
+            "mood": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "mood": 56,
+    "trust": 24,
+    "rev": 1,
+    "id": "chris-snow",
+    "title": "Cypress on a Friday",
+    "tag": "Winter driver",
+    "customer": "Chris",
+    "role": "Loves a snow day, currently in a CR-V",
+    "budget": 48000,
+    "looking": "Outlander",
+    "recommend": "2026 Outlander SE or GT if the driver aids matter on Highway 1",
+    "hidden": "He thinks all-wheel drive is all the same and winter tires are optional if the badge says AWD.",
+    "accent": "#9af6ff",
+    "beats": [
+      {
+        "say": "I go to Cypress when it snows. My CR-V has been fine. Convince me.",
+        "choices": [
+          {
+            "text": "I won't knock the CR-V. When you're in snow, do you want a mode you can select, and do you ever take more than four people?",
+            "quality": "best",
+            "skill": "discovery",
+            "reply": "Four of us, sometimes five if a friend bails on their own car. I just leave it in AWD and go.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "CR-Vs are dangerous in the mountains.",
+            "quality": "poor",
+            "skill": "competitor",
+            "reply": "I've done three seasons in it. Come on.",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "S-AWC is unbeatable. Nothing else gets up that road.",
+            "quality": "poor",
+            "skill": "trust",
+            "reply": "That's an ad.",
+            "trust": -14,
+            "mood": -12
+          }
+        ]
+      },
+      {
+        "say": "AWD is AWD. You're going to tell me yours is magic.",
+        "choices": [
+          {
+            "text": "Not magic. On the Outlander you can pick Snow or Gravel. It is still a tire that finds the grip. S-AWC does not replace winters.",
+            "quality": "best",
+            "skill": "benefit",
+            "reply": "Huh. The last person told me I could skip winters.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "You can skip winter tires with S-AWC.",
+            "quality": "poor",
+            "skill": "trust",
+            "reply": "Yeah, no.",
+            "trust": -14,
+            "mood": -12,
+            "fatal": true
+          },
+          {
+            "text": "Our AWD is full-time lock, all four wheels, always.",
+            "quality": "poor",
+            "skill": "product",
+            "reply": "I don't think that's true.",
+            "trust": -14,
+            "mood": -12,
+            "fatal": true
+          }
+        ]
+      },
+      {
+        "say": "The CR-V hybrid also burns less fuel. My partner already looked it up.",
+        "choices": [
+          {
+            "text": "They're right. I won't argue the pump. The Outlander case is seven seats if that fifth friend becomes a habit, the warranty, and the modes. Or a PHEV if the weekday commute is the actual fuel problem.",
+            "quality": "best",
+            "skill": "competitor",
+            "reply": "The fifth person happens more than I admit.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Our fuel economy is better than a hybrid. Their site is wrong.",
+            "quality": "poor",
+            "skill": "competitor",
+            "reply": "I'm looking at the number right now.",
+            "trust": -14,
+            "mood": -12,
+            "fatal": true
+          },
+          {
+            "text": "Fuel doesn't matter if the car is fun.",
+            "quality": "ok",
+            "skill": "benefit",
+            "reply": "It matters to my partner.",
+            "trust": 6,
+            "mood": 1
+          }
+        ]
+      },
+      {
+        "say": "Warranty. Theirs is fine, isn't it?",
+        "choices": [
+          {
+            "text": "Honda's powertrain coverage in Canada is 5 years / 100,000 km. Ours is 10 years / 160,000 km. Basic vehicle coverage is a different number. I'll show you both lines.",
+            "quality": "best",
+            "skill": "product",
+            "reply": "Put it on the sheet. They'll ask.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "We have a lifetime warranty.",
+            "quality": "poor",
+            "skill": "trust",
+            "reply": "No you don't.",
+            "trust": -14,
+            "mood": -12,
+            "fatal": true
+          },
+          {
+            "text": "Warranties are all the same.",
+            "quality": "poor",
+            "skill": "product",
+            "reply": "Then I might as well stay.",
+            "trust": -14,
+            "mood": -12
+          }
+        ]
+      },
+      {
+        "say": "It's dry today. How do I even feel the difference?",
+        "choices": [
+          {
+            "text": "We won't fake a snow demo. We'll drive the on-ramp so you feel the turbo, and I'll book you into the first wet morning if you want the Snow mode for real. Fair?",
+            "quality": "best",
+            "skill": "close",
+            "reply": "That's honest. Let's drive the on-ramp.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "The brochure has a snow photo. That's enough.",
+            "quality": "poor",
+            "skill": "close",
+            "reply": "I came to drive.",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "You have to buy it to really know.",
+            "quality": "poor",
+            "skill": "trust",
+            "reply": "Absolutely not.",
+            "trust": -14,
+            "mood": -12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "mood": 48,
+    "trust": 20,
+    "rev": 1,
+    "id": "megan-surrey",
+    "title": "The Surrey screenshot",
+    "tag": "Price shopper",
+    "customer": "Megan",
+    "role": "Has an ad on her phone and an hour to burn",
+    "budget": 40000,
+    "looking": "Outlander SE",
+    "recommend": "The in-stock SE, if the Surrey quote is not the same car",
+    "hidden": "The Surrey number is for a different trim and excludes fees.",
+    "accent": "#ff5d73",
+    "beats": [
+      {
+        "say": "I can get it cheaper in Surrey. Why am I even standing here?",
+        "choices": [
+          {
+            "text": "Maybe you can. Can I see the ad so we compare the same year, trim and fees?",
+            "quality": "best",
+            "skill": "objection",
+            "reply": "Fine. It's this screenshot. It doesn't say the trim in big letters.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Surrey ads are bait. Stay here.",
+            "quality": "poor",
+            "skill": "trust",
+            "reply": "So you want me to ignore a number.",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "I'll beat it by five hundred right now.",
+            "quality": "poor",
+            "skill": "finance",
+            "reply": "You haven't seen it.",
+            "trust": -14,
+            "mood": -12,
+            "fatal": true
+          }
+        ]
+      },
+      {
+        "say": "It says Outlander, a payment, and a bunch of fine print I didn't read.",
+        "choices": [
+          {
+            "text": "The fine print is the deal. We'll check trim, kilometres, freight, PDI and whether that car is on the ground.",
+            "quality": "best",
+            "skill": "finance",
+            "reply": "It might be an ES. Mine needs the sunroof. I work outdoors and I want the wheel heated too.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Payments in ads are always the real payment.",
+            "quality": "poor",
+            "skill": "finance",
+            "reply": "Even I don't believe that.",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "If it says Outlander, it's the same as this SE.",
+            "quality": "poor",
+            "skill": "product",
+            "reply": "That seems lazy.",
+            "trust": -14,
+            "mood": -12,
+            "fatal": true
+          }
+        ]
+      },
+      {
+        "say": "I don't love driving an hour each way if the cars are the same.",
+        "choices": [
+          {
+            "text": "If they're the same out-the-door, I'll ask my manager before you burn the hour. If theirs is an ES and you want the SE sunroof and heated wheel, it isn't the same car.",
+            "quality": "best",
+            "skill": "objection",
+            "reply": "I want the SE stuff. I just don't want to feel stupid.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "You'd be stupid to drive to Surrey.",
+            "quality": "poor",
+            "skill": "trust",
+            "reply": "Wow.",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "We never match. Store policy.",
+            "quality": "ok",
+            "skill": "objection",
+            "reply": "Then run the real number at least.",
+            "trust": 6,
+            "mood": 1
+          }
+        ]
+      },
+      {
+        "say": "What can you actually do without disappearing into an office for twenty minutes?",
+        "choices": [
+          {
+            "text": "I can spec this SE and list every fee in front of you in five minutes. The yes-or-no on matching is the manager's, and I'll get it while you look at the car, not after you've waited in a chair.",
+            "quality": "best",
+            "skill": "close",
+            "reply": "Do that.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Nothing. The price is the price.",
+            "quality": "poor",
+            "skill": "objection",
+            "reply": "Then the screenshot wins.",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "I'll text you tonight after I \"see what I can do\".",
+            "quality": "ok",
+            "skill": "close",
+            "reply": "Tonight I'll be in Surrey.",
+            "trust": 6,
+            "mood": 1
+          }
+        ]
+      },
+      {
+        "say": "If your out-the-door is in the same neighbourhood, I'll stop shopping.",
+        "choices": [
+          {
+            "text": "Then that's the deal we ask for. Same equipment, fees showing, and a yes or a no today. If it's a no, I'll say so.",
+            "quality": "best",
+            "skill": "close",
+            "reply": "Get the number.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Sign this and we'll match later if we feel like it.",
+            "quality": "poor",
+            "skill": "trust",
+            "reply": "Not a chance.",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "Let me show you a Noir instead. The payment can look similar if we stretch it.",
+            "quality": "poor",
+            "skill": "finance",
+            "reply": "That's not the car in the ad.",
+            "trust": -14,
+            "mood": -12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "mood": 56,
+    "trust": 24,
+    "rev": 1,
+    "id": "noah-tech",
+    "title": "The screen shopper",
+    "tag": "Tech trim",
+    "customer": "Noah",
+    "role": "Wants the camera, the big screen, the HUD",
+    "budget": 52000,
+    "looking": "Outlander or Tucson",
+    "recommend": "2026 Outlander GT, because the HUD is the thing he named",
+    "hidden": "He will feel tricked if the cheaper trim is missing the HUD he already decided he wants.",
+    "accent": "#d6b4ff",
+    "beats": [
+      {
+        "say": "I care about the tech. Big screen, 360 camera, head-up display. The Tucson advertises all of it.",
+        "choices": [
+          {
+            "text": "On our gas Outlander those don't land on the same trim. Screen is ES, 360 camera is LE, HUD is GT. Which one is the deal-breaker?",
+            "quality": "best",
+            "skill": "product",
+            "reply": "The HUD. I drive a lot at night and I hate looking down.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Every Outlander has the HUD.",
+            "quality": "poor",
+            "skill": "product",
+            "reply": "I was on your site. That's not true.",
+            "trust": -14,
+            "mood": -12,
+            "fatal": true
+          },
+          {
+            "text": "Tech is all the same. Buy on colour.",
+            "quality": "poor",
+            "skill": "benefit",
+            "reply": "Then I'll buy the Tucson.",
+            "trust": -14,
+            "mood": -12
+          }
+        ]
+      },
+      {
+        "say": "Night driving. Highway 1. I want the speed in the glass.",
+        "choices": [
+          {
+            "text": "That's the 10.8-inch HUD, GT. You also get stop-and-go cruise and the 12-speaker Yamaha. LE will disappoint you the first night.",
+            "quality": "best",
+            "skill": "benefit",
+            "reply": "Then don't put me in an LE.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "An LE is close enough and nobody notices.",
+            "quality": "poor",
+            "skill": "trust",
+            "reply": "I'll notice.",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "We can add an aftermarket HUD to an ES.",
+            "quality": "poor",
+            "skill": "product",
+            "reply": "I don't want a gadget stuck on the dash.",
+            "trust": -14,
+            "mood": -12,
+            "fatal": true
+          }
+        ]
+      },
+      {
+        "say": "The Tucson Limited might have more toys for the money.",
+        "choices": [
+          {
+            "text": "It might. Line up HUD, camera, audio and warranty on both worksheets. Hyundai's 5-year coverage is real. Our powertrain is 10 years / 160,000 km, and we seat seven if that ever matters.",
+            "quality": "best",
+            "skill": "competitor",
+            "reply": "It's just the two of us and a dog. Seats aren't the point. Warranty might be.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Hyundai warranties are basically nothing.",
+            "quality": "poor",
+            "skill": "competitor",
+            "reply": "That's not what I read.",
+            "trust": -14,
+            "mood": -12,
+            "fatal": true
+          },
+          {
+            "text": "Don't look at the Tucson. It'll only confuse you.",
+            "quality": "poor",
+            "skill": "trust",
+            "reply": "Too late.",
+            "trust": -14,
+            "mood": -12
+          }
+        ]
+      },
+      {
+        "say": "Dog hair. Leather that survives, and a camera so I don't reverse into the bin.",
+        "choices": [
+          {
+            "text": "Leather-appointed starts at SEL. The camera is already there from LE. GT keeps both and adds the HUD you came for. Let's sit in that one and pair your phone.",
+            "quality": "best",
+            "skill": "benefit",
+            "reply": "Pair the phone. If it takes ten minutes I'm out.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Cloth is better for dogs. Ignore the leather.",
+            "quality": "ok",
+            "skill": "benefit",
+            "reply": "I want it to look decent for clients.",
+            "trust": 6,
+            "mood": 1
+          },
+          {
+            "text": "The camera is a toy. Use your mirrors.",
+            "quality": "poor",
+            "skill": "trust",
+            "reply": "It's a tight lane. I want the camera.",
+            "trust": -14,
+            "mood": -12
+          }
+        ]
+      },
+      {
+        "say": "Phone's paired. This is the one I pictured.",
+        "choices": [
+          {
+            "text": "Then we price the GT out-the-door, including the taxes you actually pay, and you tell me if the night-driving feature is worth the step.",
+            "quality": "best",
+            "skill": "close",
+            "reply": "Price it. Don't surprise me.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Great, sign here while the feeling lasts.",
+            "quality": "poor",
+            "skill": "close",
+            "reply": "Slow down.",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "Let me also show you the PHEV, the RVR and a used car.",
+            "quality": "poor",
+            "skill": "discovery",
+            "reply": "You just found the car. Stop.",
+            "trust": -14,
+            "mood": -12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "mood": 56,
+    "trust": 24,
+    "rev": 1,
+    "id": "ruth-mirage",
+    "title": "She wanted a Mirage",
+    "tag": "Downsizing",
+    "customer": "Ruth",
+    "role": "Coming out of a tall truck, wants small and cheap",
+    "budget": 28000,
+    "looking": "Something easy to park",
+    "recommend": "2026 RVR ES AWC",
+    "hidden": "She is worried about hip height getting in, and she was told the Mirage is gone.",
+    "accent": "#ffd0a8",
+    "beats": [
+      {
+        "say": "I wanted a Mirage. My neighbour said you don't make them anymore. Is that true?",
+        "choices": [
+          {
+            "text": "Yes. 2024 was the last model year. I won't take an order for one. What did you want it to do?",
+            "quality": "best",
+            "skill": "trust",
+            "reply": "Easy to park. Cheap on fuel. I'm not hauling anything but groceries and the dog.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "We can still order a 2026 Mirage. Same car.",
+            "quality": "poor",
+            "skill": "product",
+            "reply": "Don't lie to me. I'll check.",
+            "trust": -14,
+            "mood": -12,
+            "fatal": true
+          },
+          {
+            "text": "The Mirage was a bad car. You dodged a bullet.",
+            "quality": "poor",
+            "skill": "trust",
+            "reply": "My daughter learned to drive in one. Be decent.",
+            "trust": -14,
+            "mood": -12
+          }
+        ]
+      },
+      {
+        "say": "My hip hates climbing into the truck. I want to sit, not climb, and I don't want to feel every wind on the highway.",
+        "choices": [
+          {
+            "text": "Then we're looking at seat height, not just price. The RVR sits like a small SUV. We'll do one get-in on the lot before we talk engines.",
+            "quality": "best",
+            "skill": "discovery",
+            "reply": "Good. If I groan getting in, we're done.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "The lowest car is always easier. We'll find you a sport sedan.",
+            "quality": "poor",
+            "skill": "benefit",
+            "reply": "I didn't ask for a sports car.",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "Any of them will be fine for your hip.",
+            "quality": "ok",
+            "skill": "trust",
+            "reply": "We'll see.",
+            "trust": 6,
+            "mood": 1
+          }
+        ]
+      },
+      {
+        "say": "My son wants me in a Kona. He says the warranty is better and it's newer.",
+        "choices": [
+          {
+            "text": "Hyundai's 5-year / 100,000 km coverage is strong. Ours splits into 5-year vehicle and 10-year powertrain. The RVR ES FWD starts at $24,998 and heated seats are standard. AWC is $26,998 if you want it for the rain.",
+            "quality": "best",
+            "skill": "competitor",
+            "reply": "I drive to my sister's in the rain more than I drive in snow.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Tell your son Hyundai is unreliable.",
+            "quality": "poor",
+            "skill": "competitor",
+            "reply": "He did the research. Don't insult him.",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "Warranties are identical, so ignore him.",
+            "quality": "poor",
+            "skill": "product",
+            "reply": "They aren't, though.",
+            "trust": -14,
+            "mood": -12
+          }
+        ]
+      },
+      {
+        "say": "I still miss the Mirage fuel number. It was tiny.",
+        "choices": [
+          {
+            "text": "6.2 combined was real, and that car is gone. A RVR ES FWD is rated 8.8 combined. I won't dress that up. If fuel is the whole point and you can plug in, we should also look at how you drive before anyone says PHEV.",
+            "quality": "best",
+            "skill": "trust",
+            "reply": "I park in a carport with an outlet. I hadn't thought about a plug-in. It might be more car than I want.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "The RVR uses the same fuel as a Mirage.",
+            "quality": "poor",
+            "skill": "product",
+            "reply": "Now you're fibbing.",
+            "trust": -14,
+            "mood": -12,
+            "fatal": true
+          },
+          {
+            "text": "Fuel ratings don't matter for someone your age.",
+            "quality": "poor",
+            "skill": "trust",
+            "reply": "Excuse me?",
+            "trust": -14,
+            "mood": -12
+          }
+        ]
+      },
+      {
+        "say": "Let me try getting into the RVR. If the hip is happy, I'll listen to the payment.",
+        "choices": [
+          {
+            "text": "We'll do the get-in first, no speech. If it works, the desk will price ES AWC out-the-door. If it hurts, we stop.",
+            "quality": "best",
+            "skill": "close",
+            "reply": "That's respectful. Let's try.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Sit in the Outlander GT while I find a brochure.",
+            "quality": "poor",
+            "skill": "discovery",
+            "reply": "That's the truck problem all over again.",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "You have to drive it to know. Hop in and we'll hit the highway.",
+            "quality": "ok",
+            "skill": "close",
+            "reply": "Get-in first. Then I'll decide.",
+            "trust": 6,
+            "mood": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "mood": 56,
+    "trust": 24,
+    "rev": 1,
+    "id": "amir-work",
+    "title": "The work vehicle",
+    "tag": "Small business",
+    "customer": "Amir",
+    "role": "Visits job sites and clients, writes the vehicle off with his accountant",
+    "budget": 42000,
+    "looking": "Eclipse Cross or Rogue",
+    "recommend": "2026 Eclipse Cross SE or GT, after kilometres are known",
+    "hidden": "He wants you to give tax advice you are not qualified to give.",
+    "accent": "#b8ff7a",
+    "beats": [
+      {
+        "say": "I need something I can put clients in and also throw samples in the back. My accountant said lease it.",
+        "choices": [
+          {
+            "text": "I'm not your accountant, so the lease-versus-finance call stays with them. I can ask how many kilometres a year and whether clients need the back seat every day.",
+            "quality": "best",
+            "skill": "finance",
+            "reply": "About twenty-five thousand kilometres. Clients a few times a week. Samples are bins, not pallets.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Leasing is always the right write-off. Do that.",
+            "quality": "poor",
+            "skill": "finance",
+            "reply": "You're not my accountant.",
+            "trust": -14,
+            "mood": -12,
+            "fatal": true
+          },
+          {
+            "text": "Buy the most expensive one. It writes off better.",
+            "quality": "poor",
+            "skill": "trust",
+            "reply": "That's not how this works.",
+            "trust": -14,
+            "mood": -12
+          }
+        ]
+      },
+      {
+        "say": "The Rogue feels more \"known\". I don't want a client googling the badge in the passenger seat.",
+        "choices": [
+          {
+            "text": "Some people know Nissan better. The Eclipse Cross answer is standard S-AWC, turbo torque from low revs, and a longer powertrain warranty. The badge argument is theirs. The worksheet can be yours.",
+            "quality": "best",
+            "skill": "competitor",
+            "reply": "Torque matters. Some of my sites are gravel.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Nobody respects a Nissan.",
+            "quality": "poor",
+            "skill": "competitor",
+            "reply": "My biggest client drives one.",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "Badges don't matter to clients.",
+            "quality": "ok",
+            "skill": "trust",
+            "reply": "You'd be surprised.",
+            "trust": 6,
+            "mood": 1
+          }
+        ]
+      },
+      {
+        "say": "Gravel lots. Rain. I don't need a jeep. I need it to leave the lot without drama.",
+        "choices": [
+          {
+            "text": "Eclipse Cross S-AWC has a Gravel mode, on every trim. It is not a rock crawler. If the lot is a construction pit, say so now and we talk limits.",
+            "quality": "best",
+            "skill": "benefit",
+            "reply": "It's a graded lot, not a trail. Gravel mode is the phrase I wanted.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "S-AWC will go anywhere a truck goes.",
+            "quality": "poor",
+            "skill": "trust",
+            "reply": "I'm not looking for a fairy tale.",
+            "trust": -14,
+            "mood": -12,
+            "fatal": true
+          },
+          {
+            "text": "Use the RVR's 4WD Lock. Same thing, less money.",
+            "quality": "ok",
+            "skill": "product",
+            "reply": "Maybe. But I wanted the nicer cabin for clients.",
+            "trust": 6,
+            "mood": 1
+          }
+        ]
+      },
+      {
+        "say": "If I lease, I can't come back over on kilometres. I've done that once.",
+        "choices": [
+          {
+            "text": "Then 25,000 km is the number we hand the desk, not a 16,000 km teaser payment. I'd rather show you a higher payment than a bill in three years.",
+            "quality": "best",
+            "skill": "finance",
+            "reply": "Good. Show me the real cap.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Go low on the cap. You can buy kilometres later, it's cheap.",
+            "quality": "poor",
+            "skill": "finance",
+            "reply": "It was not cheap last time.",
+            "trust": -14,
+            "mood": -12,
+            "fatal": true
+          },
+          {
+            "text": "Finance it so kilometres don't matter, and ignore your accountant.",
+            "quality": "poor",
+            "skill": "trust",
+            "reply": "I'm not ignoring them.",
+            "trust": -14,
+            "mood": -12
+          }
+        ]
+      },
+      {
+        "say": "SE or GT? I want clients comfortable. I don't need a spaceship.",
+        "choices": [
+          {
+            "text": "SE gives you the heated wheel, blind-spot warning and the hands-free liftgate for the bins. GT adds leather, the roof and remote start. We price both with the real kilometre cap.",
+            "quality": "best",
+            "skill": "close",
+            "reply": "Price both. I'll call the accountant with the two payments, not with a guess.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "GT. Always GT. SE looks cheap.",
+            "quality": "poor",
+            "skill": "benefit",
+            "reply": "You haven't seen my books.",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "Take the Rogue. I can't win this.",
+            "quality": "poor",
+            "skill": "close",
+            "reply": "I didn't ask you to quit.",
+            "trust": -14,
+            "mood": -12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "mood": 50,
+    "trust": 30,
+    "rev": 1,
+    "id": "jordan-bank",
+    "title": "The bank draft",
+    "tag": "Outside financing",
+    "customer": "Jordan",
+    "role": "Pre-approved, allergic to F&I pitches",
+    "budget": 58000,
+    "looking": "Outlander PHEV GT",
+    "recommend": "PHEV GT if the HUD and the commute both matter, financed wherever the math wins",
+    "hidden": "Jordan assumes every dealer rate is a trap and will walk if you push products.",
+    "accent": "#ffd36a",
+    "beats": [
+      {
+        "say": "I'm already approved at my credit union. I don't want a finance-office speech.",
+        "choices": [
+          {
+            "text": "Then you won't get one. We'll pick the vehicle first. If you want, we'll compare their rate to ours and I'll tell you if yours wins.",
+            "quality": "best",
+            "skill": "finance",
+            "reply": "Ours is 5.9 for five years. Beat it or don't. Just don't play games.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "You have to finance here. That's the only way this works.",
+            "quality": "poor",
+            "skill": "finance",
+            "reply": "Then it doesn't work.",
+            "trust": -14,
+            "mood": -12,
+            "fatal": true
+          },
+          {
+            "text": "Outside banks slow the delivery down on purpose.",
+            "quality": "poor",
+            "skill": "trust",
+            "reply": "That's a tactic.",
+            "trust": -14,
+            "mood": -12
+          }
+        ]
+      },
+      {
+        "say": "I want the PHEV GT. HUD, the sound system, the works. And I want the rebate.",
+        "choices": [
+          {
+            "text": "GT is the HUD and the 12-speaker system. The rebate is not mine to gift. We confirm the current program and whether you qualify before it touches the quote.",
+            "quality": "best",
+            "skill": "phev",
+            "reply": "Good. Don't dangle it if it isn't real.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Every PHEV gets $2,500 off today. I'll write it in.",
+            "quality": "poor",
+            "skill": "finance",
+            "reply": "I'm going to check that tonight and I'll be angry if it's wrong.",
+            "trust": -14,
+            "mood": -12,
+            "fatal": true
+          },
+          {
+            "text": "Rebates are gone forever. Pay the full thing.",
+            "quality": "ok",
+            "skill": "finance",
+            "reply": "The website still mentions one. Check.",
+            "trust": 6,
+            "mood": 1
+          }
+        ]
+      },
+      {
+        "say": "I also don't want rust modules, etch, or a warranty speech.",
+        "choices": [
+          {
+            "text": "Optional means optional. I'll tell you what the vehicle warranty already is, 5-year vehicle and 10-year powertrain and battery, and anything else waits for you to ask.",
+            "quality": "best",
+            "skill": "trust",
+            "reply": "That's the first time someone has said optional and meant it.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "You need the extended plan. The battery is a time bomb.",
+            "quality": "poor",
+            "skill": "phev",
+            "reply": "Now I don't trust the car.",
+            "trust": -14,
+            "mood": -12,
+            "fatal": true
+          },
+          {
+            "text": "We'll add them and you can cancel. It's easier.",
+            "quality": "poor",
+            "skill": "finance",
+            "reply": "No.",
+            "trust": -14,
+            "mood": -12
+          }
+        ]
+      },
+      {
+        "say": "My rate is 5.9. Be honest if you can't touch it.",
+        "choices": [
+          {
+            "text": "I don't know today's reserve or special rate. The desk will. If 5.9 wins, we use your credit union and move on.",
+            "quality": "best",
+            "skill": "finance",
+            "reply": "Alright. Ask them.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "We can always beat a bank. It's what we do.",
+            "quality": "poor",
+            "skill": "trust",
+            "reply": "There it is.",
+            "trust": -14,
+            "mood": -12,
+            "fatal": true
+          },
+          {
+            "text": "5.9 is terrible. You should be embarrassed.",
+            "quality": "poor",
+            "skill": "trust",
+            "reply": "We're done talking about my finances.",
+            "trust": -14,
+            "mood": -12
+          }
+        ]
+      },
+      {
+        "say": "If the GT is in stock and the numbers come back clean, I'll take it this week.",
+        "choices": [
+          {
+            "text": "Let's confirm the stock unit, the colour, and a delivery time that doesn't depend on a product you don't want. Then the desk brings one page: price, rate comparison, rebate status.",
+            "quality": "best",
+            "skill": "close",
+            "reply": "One page. I'll read it.",
+            "trust": 16,
+            "mood": 8
+          },
+          {
+            "text": "Give me your credit application anyway, just in case.",
+            "quality": "poor",
+            "skill": "finance",
+            "reply": "You said you wouldn't do that.",
+            "trust": -14,
+            "mood": -12
+          },
+          {
+            "text": "Come back Saturday and start over with another rep.",
+            "quality": "ok",
+            "skill": "close",
+            "reply": "I'm here now.",
+            "trust": 6,
+            "mood": 1
+          }
+        ]
+      }
+    ]
+  }
+]

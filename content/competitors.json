@@ -1,0 +1,410 @@
+[
+  {
+    "id": "rav4",
+    "name": "Toyota RAV4",
+    "vehicle": "Outlander",
+    "respect": "The RAV4 Hybrid really does use less fuel. Agree before you pivot.",
+    "cards": [
+      {
+        "id": "seats",
+        "title": "Seven seats",
+        "line": "Every Outlander seats seven. The RAV4 seats five.",
+        "good": true,
+        "why": "True, and it is the cleanest contrast in the segment."
+      },
+      {
+        "id": "warranty",
+        "title": "10-year powertrain",
+        "line": "Our powertrain warranty is 10 years / 160,000 km. Toyota Canada's is 5 years / 100,000 km.",
+        "good": true,
+        "why": "Say both numbers. Do not call Toyota's warranty fake."
+      },
+      {
+        "id": "sawc",
+        "title": "S-AWC standard",
+        "line": "S-AWC is on every Outlander, with modes you can show them for the rain.",
+        "good": true,
+        "why": "Standard beats an AWD conversation that starts with \"which package\"."
+      },
+      {
+        "id": "phev",
+        "title": "Plug-in commute",
+        "line": "If the weekday loop fits, the PHEV can do it on electricity. A RAV4 Hybrid cannot plug in.",
+        "good": true,
+        "why": "Only if they can plug in. You already have that from discovery."
+      },
+      {
+        "id": "fuel-trap",
+        "title": "We burn less",
+        "line": "Tell them the gas Outlander beats the RAV4 Hybrid on fuel.",
+        "good": false,
+        "why": "It does not. Gas Outlander is 8.7 combined. Do not die on this hill."
+      },
+      {
+        "id": "resale-trap",
+        "title": "Better resale",
+        "line": "Promise the Outlander will be worth more than a RAV4 in three years.",
+        "good": false,
+        "why": "You cannot promise the auction. Compare warranty and payment instead."
+      }
+    ],
+    "rev": 1
+  },
+  {
+    "id": "crv",
+    "name": "Honda CR-V",
+    "vehicle": "Outlander",
+    "respect": "The CR-V Hybrid is efficient and Honda's reliability reputation is earned. Do not sneer.",
+    "cards": [
+      {
+        "id": "seats",
+        "title": "Third row",
+        "line": "Seven seats standard versus five in the CR-V.",
+        "good": true,
+        "why": "This is why families cross the lot."
+      },
+      {
+        "id": "warranty",
+        "title": "Longer powertrain",
+        "line": "10 years / 160,000 km powertrain versus Honda's 5 years / 100,000 km.",
+        "good": true,
+        "why": "Accurate Canadian comparison if you keep basic coverage separate."
+      },
+      {
+        "id": "sawc",
+        "title": "Modes, not a badge",
+        "line": "Show Snow or Gravel mode instead of saying AWD is AWD.",
+        "good": true,
+        "why": "A demonstration beats a slogan."
+      },
+      {
+        "id": "phev",
+        "title": "Real plug",
+        "line": "Offer the PHEV only if their commute and their plug support it.",
+        "good": true,
+        "why": "The CR-V hybrid does not plug in. The PHEV does."
+      },
+      {
+        "id": "fuel-trap",
+        "title": "Fuel win",
+        "line": "Claim you use less fuel than the CR-V Hybrid.",
+        "good": false,
+        "why": "You will get fact-checked in the parking lot."
+      },
+      {
+        "id": "danger-trap",
+        "title": "Honda is unsafe",
+        "line": "Hint that CR-Vs are a bad idea in the mountains.",
+        "good": false,
+        "why": "Insulting a car they already trust ends the conversation."
+      }
+    ],
+    "rev": 1
+  },
+  {
+    "id": "rogue",
+    "name": "Nissan Rogue",
+    "vehicle": "Outlander",
+    "respect": "The Rogue is a known five-seat compact. Their three-row is a different vehicle.",
+    "cards": [
+      {
+        "id": "seats",
+        "title": "Seven, not five",
+        "line": "Outlander seats seven. The Rogue does not. Don't let them blur it with a Pathfinder.",
+        "good": true,
+        "why": "Keep the comparison on the vehicle they named."
+      },
+      {
+        "id": "warranty",
+        "title": "Powertrain years",
+        "line": "10-year powertrain versus Nissan's 5-year / 100,000 km coverage.",
+        "good": true,
+        "why": "A clean, checkable contrast."
+      },
+      {
+        "id": "sawc",
+        "title": "Standard S-AWC",
+        "line": "S-AWC is standard here, not a package you hope is on the unit.",
+        "good": true,
+        "why": "Package confusion is where Rogue deals get muddy."
+      },
+      {
+        "id": "audio",
+        "title": "Yamaha, say it right",
+        "line": "Play their song on the Yamaha system and stop talking.",
+        "good": true,
+        "why": "A ten-second demo beats a feature list."
+      },
+      {
+        "id": "name-trap",
+        "title": "Nobody trusts Nissan",
+        "line": "Tell them the Rogue badge is embarrassing.",
+        "good": false,
+        "why": "Their friend or their boss may drive one."
+      },
+      {
+        "id": "cvt-trap",
+        "title": "Ours is not a CVT",
+        "line": "Claim the Outlander gearbox is a regular automatic.",
+        "good": false,
+        "why": "It is a CVT. The warranty is the honest answer."
+      }
+    ],
+    "rev": 1
+  },
+  {
+    "id": "tucson",
+    "name": "Hyundai Tucson",
+    "vehicle": "Outlander",
+    "respect": "Hyundai's 5-year / 100,000 km coverage is genuinely strong, and they sell hybrids and a plug-in.",
+    "cards": [
+      {
+        "id": "warranty",
+        "title": "Separate the warranties",
+        "line": "Respect the 5-year comprehensive coverage. Then show the 10-year powertrain.",
+        "good": true,
+        "why": "Trashing Hyundai's warranty makes you look unread."
+      },
+      {
+        "id": "seats",
+        "title": "Third row they do not have",
+        "line": "A Tucson plug-in is still five seats. Outlander PHEV keeps seven.",
+        "good": true,
+        "why": "The family brief is the opening."
+      },
+      {
+        "id": "sawc",
+        "title": "Standard S-AWC",
+        "line": "S-AWC on every Outlander versus an AWD conversation on the Tucson.",
+        "good": true,
+        "why": "Make it a demo, not a speech."
+      },
+      {
+        "id": "toys",
+        "title": "Their three features",
+        "line": "Line up only the features they named, on the trims that have them.",
+        "good": true,
+        "why": "Feature-count contests reward the louder brochure."
+      },
+      {
+        "id": "only-plug",
+        "title": "Only we plug in",
+        "line": "Say Mitsubishi is the only plug-in in the conversation.",
+        "good": false,
+        "why": "Tucson has a plug-in hybrid. You will get caught."
+      },
+      {
+        "id": "junk-trap",
+        "title": "Their toys break",
+        "line": "Call Hyundai equipment junk.",
+        "good": false,
+        "why": "Insults are not a comparison."
+      }
+    ],
+    "rev": 1
+  },
+  {
+    "id": "cx5",
+    "name": "Mazda CX-5",
+    "vehicle": "Outlander",
+    "respect": "A lot of people prefer the CX-5's steering. Let them have it.",
+    "cards": [
+      {
+        "id": "seats",
+        "title": "Room for seven",
+        "line": "CX-5 is five seats. Ask if that is actually enough.",
+        "good": true,
+        "why": "Space is the factual gap."
+      },
+      {
+        "id": "phev",
+        "title": "A plug they cannot get there",
+        "line": "No CX-5 plug-in. Offer the PHEV only when the commute fits.",
+        "good": true,
+        "why": "Do not pitch a PHEV to someone with nowhere to plug in."
+      },
+      {
+        "id": "warranty",
+        "title": "10-year powertrain",
+        "line": "Mazda does not match a 10-year / 160,000 km powertrain warranty.",
+        "good": true,
+        "why": "Keep the claim on our number, which you can show."
+      },
+      {
+        "id": "sawc",
+        "title": "Weather modes",
+        "line": "Offer a Snow-mode explanation for the trips they actually take.",
+        "good": true,
+        "why": "Tied to their driving, this lands. As a slogan, it does not."
+      },
+      {
+        "id": "handle-trap",
+        "title": "We out-handle Mazda",
+        "line": "Claim the Outlander is the driver's car versus a CX-5.",
+        "good": false,
+        "why": "You will lose the test drive and the trust."
+      },
+      {
+        "id": "snob-trap",
+        "title": "Mazda is for pretenders",
+        "line": "Smile at people who care how a car steers.",
+        "good": false,
+        "why": "That is the reason they came in. Respect it."
+      }
+    ],
+    "rev": 1
+  },
+  {
+    "id": "kona",
+    "name": "Hyundai Kona",
+    "vehicle": "RVR",
+    "respect": "Kona can be a gas vehicle or an EV. Ask which one they mean before you pitch.",
+    "cards": [
+      {
+        "id": "price",
+        "title": "Door price",
+        "line": "RVR ES FWD starts at $24,998 MSRP, before fees. Ask if that is the budget.",
+        "good": true,
+        "why": "Price is the RVR's honest weapon. Do not blur in fees."
+      },
+      {
+        "id": "heat",
+        "title": "Heated seats on ES",
+        "line": "Heated fronts are standard on the RVR ES. Mention them if they feel the cold.",
+        "good": true,
+        "why": "A base-trim benefit, not a step-up you have to apologize for."
+      },
+      {
+        "id": "awc",
+        "title": "Lock mode",
+        "line": "AWC gives 2WD, Auto and 4WD Lock. Explain when Lock is for low-speed slush, not the highway.",
+        "good": true,
+        "why": "Teaching the button is the skill."
+      },
+      {
+        "id": "warranty",
+        "title": "Powertrain length",
+        "line": "10-year powertrain versus Hyundai's 5-year / 100,000 km coverage. Give them the 5-year basic, too.",
+        "good": true,
+        "why": "Balanced warranty talk survives a spouse who did the reading."
+      },
+      {
+        "id": "ev-trap",
+        "title": "We are the EV",
+        "line": "Compare an RVR's fuel to a Kona Electric as if they are the same kind of car.",
+        "good": false,
+        "why": "If they want an EV, the RVR is not one. Say so."
+      },
+      {
+        "id": "third-trap",
+        "title": "Bring the kids' row",
+        "line": "Talk about Outlander third-row space while standing at a Kona alternative.",
+        "good": false,
+        "why": "Wrong vehicle. You sound lost."
+      }
+    ],
+    "rev": 1
+  },
+  {
+    "id": "hrv",
+    "name": "Honda HR-V",
+    "vehicle": "RVR",
+    "respect": "The HR-V is a tidy five-seat Honda. Reliability feelings will come up. Do not flinch.",
+    "cards": [
+      {
+        "id": "price",
+        "title": "Open at the RVR price",
+        "line": "Start at the RVR ES number and ask what they were quoted on the HR-V, fees included on both.",
+        "good": true,
+        "why": "Apples to apples, or not at all."
+      },
+      {
+        "id": "lock",
+        "title": "4WD Lock",
+        "line": "Show 4WD Lock for a slushy lot. HR-V AWD does not give them that button.",
+        "good": true,
+        "why": "A specific system difference, not \"ours is better AWD\"."
+      },
+      {
+        "id": "heat",
+        "title": "Heat at the base",
+        "line": "Heated seats on the ES. Confirm the HR-V trim they priced before you claim a win.",
+        "good": true,
+        "why": "You told them to confirm. That is the skill."
+      },
+      {
+        "id": "step",
+        "title": "Know when to walk",
+        "line": "If they want turbo torque and S-AWC, walk them to the Eclipse Cross instead of stretching the RVR.",
+        "good": true,
+        "why": "Changing vehicles is product knowledge."
+      },
+      {
+        "id": "turbo-trap",
+        "title": "RVR is the turbo",
+        "line": "Tell them the RVR ES is a turbo.",
+        "good": false,
+        "why": "It is a 2.0L. The turbo is the Eclipse Cross and the gas Outlander."
+      },
+      {
+        "id": "honda-trap",
+        "title": "Honda is unsafe",
+        "line": "Imply Honda safety equipment is a toy.",
+        "good": false,
+        "why": "Honda Sensing is real. Do not sneer."
+      }
+    ],
+    "rev": 1
+  },
+  {
+    "id": "corolla-cross",
+    "name": "Toyota Corolla Cross",
+    "vehicle": "Eclipse Cross",
+    "respect": "The hybrid version is thrifty. Toyota resale will be their second sentence.",
+    "cards": [
+      {
+        "id": "torque",
+        "title": "Low-rpm torque",
+        "line": "Eclipse Cross makes 184 lb-ft from 2,000 rpm. Offer the on-ramp, not a horsepower shout.",
+        "good": true,
+        "why": "Let them feel the merge."
+      },
+      {
+        "id": "sawc",
+        "title": "S-AWC on all trims",
+        "line": "Every Eclipse Cross has S-AWC. Say that, then ask if they actually want it.",
+        "good": true,
+        "why": "Standard is only a benefit if their driving needs it."
+      },
+      {
+        "id": "warranty",
+        "title": "10 versus 5",
+        "line": "10-year / 160,000 km powertrain versus Toyota's 5-year / 100,000 km.",
+        "good": true,
+        "why": "The resale conversation can sit beside a warranty you can point at."
+      },
+      {
+        "id": "price-path",
+        "title": "Have a second car ready",
+        "line": "If the Eclipse Cross payment scares them, the RVR is the price path. Do not force the turbo.",
+        "good": true,
+        "why": "A planned step-down beats a lost customer."
+      },
+      {
+        "id": "fuel-trap",
+        "title": "We sip less",
+        "line": "Claim the Eclipse Cross uses less fuel than the Corolla Cross Hybrid.",
+        "good": false,
+        "why": "9.3 combined will not beat that hybrid. Agree and move."
+      },
+      {
+        "id": "resale-trap",
+        "title": "We win resale",
+        "line": "Promise stronger resale than Toyota.",
+        "good": false,
+        "why": "Do not promise the future market."
+      }
+    ],
+    "rev": 1
+  }
+]
