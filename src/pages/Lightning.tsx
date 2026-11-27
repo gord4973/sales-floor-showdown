@@ -30,7 +30,7 @@ export function Lightning() {
   const [question, setQuestion] = useState<Question | null>(null)
   const [index, setIndex] = useState(0)
   const [total, setTotal] = useState(10)
-  const [left, setLeft] = useState(12)
+  const [left, setLeft] = useState(15)
   const [result, setResult] = useState<Result | null>(null)
   const [score, setScore] = useState(0)
   const [streak, setStreak] = useState(0)
@@ -68,9 +68,9 @@ export function Lightning() {
   useEffect(() => {
     if (!question || result) return
     const started = Date.now()
-    setLeft(12)
+    setLeft(15)
     const timer = window.setInterval(() => {
-      const remain = Math.max(0, 12 - (Date.now() - started) / 1000)
+      const remain = Math.max(0, 15 - (Date.now() - started) / 1000)
       setLeft(remain)
       if (remain <= 0) {
         window.clearInterval(timer)
@@ -124,7 +124,7 @@ export function Lightning() {
           <div className="kicker">Week card · {question.vehicle}</div>
           <div className="muted">{index + 1} / {total} · streak {streak}</div>
         </div>
-        <div className="timer" style={{ ['--p' as string]: (left / 12) * 100 }}><span>{Math.ceil(left)}</span></div>
+        <div className="timer" style={{ ['--p' as string]: (left / 15) * 100 }}><span>{Math.ceil(left)}</span></div>
       </div>
       <h2 className="question">{question.prompt}</h2>
       {question.choices.map((choice, choiceIndex) => {

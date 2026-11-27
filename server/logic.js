@@ -79,7 +79,7 @@ export const BADGES = {
 }
 
 export function scoreLightning({ correct, streak, elapsedMs }) {
-  const timedOut = elapsedMs > 12500
+  const timedOut = elapsedMs > 15500
   if (!correct || timedOut) {
     return { points: 0, xp: 0, streak: 0, multiplier: 1, timedOut: timedOut && correct, skillHit: false }
   }

@@ -24,7 +24,7 @@ node scripts/smoke.mjs   # plays every mode against a running server
 
 ## Modes
 
-- **Lightning** — 10 questions, 12 seconds each. Streaks hit x2, x3, x4. The right answer is explained after every tap.
+- **Lightning** — 10 questions, 15 seconds each. Streaks hit x2, x3, x4. The right answer is explained after every tap.
 - **Walk-In** — ten customers with a mood, a budget, and a hidden objection. Trust closes the deal and plays the key handover.
 - **Objection Arena** — throw a room code. A teammate takes the other side or the floor votes live from their phones. Polling, so it works on one Render instance.
 - **Beat the competition** — the wheel lands on RAV4, CR-V, Rogue, Tucson, CX-5, Kona, HR-V, or Corolla Cross. Thirty seconds to pick the three Mitsubishi lines that are actually true.

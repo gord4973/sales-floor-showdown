@@ -36,7 +36,7 @@ test('lightning streak multiplies and a miss resets', () => {
   const miss = scoreLightning({ correct: false, streak: 6, elapsedMs: 3000 })
   assert.equal(miss.streak, 0)
   assert.equal(miss.xp, 0)
-  const late = scoreLightning({ correct: true, streak: 4, elapsedMs: 13000 })
+  const late = scoreLightning({ correct: true, streak: 4, elapsedMs: 16000 })
   assert.equal(late.xp, 0)
   assert.equal(late.timedOut, true)
 })

@@ -287,7 +287,7 @@ export function mount(app, db) {
       score: 0,
       xp: 0,
       bucket,
-      seconds: 12,
+      seconds: 15,
       question: { id: first.id, vehicle: first.vehicle, category: first.category, skill: first.skill, skillLabel: SKILL_LABELS[first.skill], prompt: first.prompt, choices: JSON.parse(first.choices) },
     })
   }))
